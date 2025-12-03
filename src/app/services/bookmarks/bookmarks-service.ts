@@ -1,5 +1,5 @@
 import { inject, Injectable, signal, WritableSignal } from '@angular/core';
-import { environment } from '../../../environments/environment.development';
+import { environment } from '../../../environments/environment';
 import { Bookmark } from '../../types/bookmark';
 import { sortByDeletedAndDate } from '../../utils/sortByDeleteAndDate';
 import { ApiService } from '../api/api';
