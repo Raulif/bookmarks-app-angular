@@ -1,0 +1,28 @@
+.hide {
+  animation: 0.3s hide forwards ease-out;
+  overflow: hidden;
+}
+
+@keyframes hide {
+  0% {
+    max-height: 150px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: 100%;
+  }
+
+  80% {
+    opacity: 0%;
+  }
+
+  100% {
+    max-height: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    opacity: 0%;
+  }
+}

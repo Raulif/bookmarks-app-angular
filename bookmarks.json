@@ -1,0 +1,4025 @@
+[
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744976741892,
+    "hearable": true,
+    "id": "1598-1744976741892",
+    "title": "A Behind-the-Scenes Look at How We Release the Spotify App (Part 1) - Spotify Engineering : Spotify Engineering",
+    "url": "https://engineering.atspotify.com/2025/04/how-we-release-the-spotify-app-part-1/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744976763403,
+    "hearable": true,
+    "id": "1600-1744976763403",
+    "title": "Avoid the State Synchronization Trap | Ondrej Velisek",
+    "url": "https://ondrejvelisek.github.io/avoid-state-synchronization-trap/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744976811737,
+    "hearable": true,
+    "id": "1604-1744976811737",
+    "title": "The Post-Developer Era • Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/blog/the-post-developer-era/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744976848353,
+    "hearable": true,
+    "id": "1606-1744976848353",
+    "title": "Is React Accessible? That’s the Wrong Question | Access Armada",
+    "url": "https://www.accessarmada.com/blog/is-react-accessible-thats-the-wrong-question/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745237843205,
+    "hearable": true,
+    "id": "1602-1745237843205",
+    "title": "Claude Code Best Practices \\ Anthropic",
+    "url": "https://www.anthropic.com/engineering/claude-code-best-practices?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745237854220,
+    "hearable": true,
+    "id": "1601-1745237854220",
+    "title": "Fastify + React is 7x Faster than Next.js",
+    "url": "https://hire.jonasgalvez.com.br/2025/apr/9/fastify-speed/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745237882386,
+    "hearable": true,
+    "id": "1603-1745237882386",
+    "title": "Better error handling",
+    "url": "https://meowbark.dev/Better-error-handling?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745237936260,
+    "hearable": false,
+    "id": "1599-1745237936260",
+    "title": "GitHub - The-Pocket/Tutorial-Codebase-Knowledge: Turns Codebase into Easy Tutorial with AI",
+    "url": "https://github.com/The-Pocket/Tutorial-Codebase-Knowledge?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745237954783,
+    "hearable": false,
+    "id": "1605-1745237954783",
+    "title": "GitHub - geekforbrains/sidekick-cli: Your agentic CLI developer",
+    "url": "https://github.com/geekforbrains/sidekick-cli?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745238045278,
+    "hearable": true,
+    "id": "1607-1745238045278",
+    "title": "5 Ways to Reduce HTML File Size on Your Website | DebugBear",
+    "url": "https://www.debugbear.com/blog/reduce-html-file-size?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742476779000,
+    "hearable": true,
+    "id": "1515-1742476779000",
+    "title": "Software Development Has Too Much Software In It – Shaffan Mustafa's Blog",
+    "url": "https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742476788000,
+    "hearable": true,
+    "id": "1516-1742476788000",
+    "title": "Common Mistakes in RESTful API Design | Zuplo Blog",
+    "url": "https://zuplo.com/blog/2025/03/12/common-pitfalls-in-restful-api-design?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742476859000,
+    "hearable": true,
+    "id": "1517-1742476859000",
+    "title": "How Netflix Stores 140 Million Hours of Viewing Data Per Day",
+    "url": "https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742476879000,
+    "hearable": true,
+    "id": "1518-1742476879000",
+    "title": "[New Series] Underrated Soft Skills: Charisma",
+    "url": "https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742476913000,
+    "hearable": true,
+    "id": "1519-1742476913000",
+    "title": "Verification-First Development • Buttondown",
+    "url": "https://buttondown.com/hillelwayne/archive/verification-first-development/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477067000,
+    "hearable": true,
+    "id": "1520-1742477067000",
+    "title": "Thread by @lukasz_app on Thread Reader App – Thread Reader App",
+    "url": "https://threadreaderapp.com/thread/1898114457634500692.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477138000,
+    "hearable": true,
+    "id": "1521-1742477138000",
+    "title": "React Router error reporting from scratch — ProgrammingAreHard —",
+    "url": "https://programmingarehard.com/2025/03/11/react-router-error-reporting.html/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477145000,
+    "hearable": true,
+    "id": "1522-1742477145000",
+    "title": "Sync Engines are the Future",
+    "url": "https://www.instantdb.com/essays/sync_future?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477155000,
+    "hearable": true,
+    "id": "1523-1742477155000",
+    "title": "How Cursor (AI IDE) Works - by Shrivu Shankar",
+    "url": "https://blog.sshh.io/p/how-cursor-ai-ide-works?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477176000,
+    "hearable": true,
+    "id": "1524-1742477176000",
+    "title": "HPKV - High Performance Key-Value Store",
+    "url": "https://hpkv.io/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477457000,
+    "hearable": true,
+    "id": "1525-1742477457000",
+    "title": "The 7 Behaviors That Separate Juniors From Seniors",
+    "url": "https://alifeengineered.substack.com/p/the-7-behaviors-that-separate-juniors?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477609000,
+    "hearable": true,
+    "id": "1526-1742477609000",
+    "title": "What Every Developer Should Know About GPU Computing",
+    "url": "https://blog.codingconfessions.com/p/gpu-computing?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477650000,
+    "hearable": true,
+    "id": "1527-1742477650000",
+    "title": "A Committed Year — Rami James",
+    "url": "https://www.ramijames.com/thoughts/a-committed-year?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742477998000,
+    "hearable": true,
+    "id": "1528-1742477998000",
+    "title": "What Makes Code Hard To Read: Visual Patterns of Complexity · seeinglogic blog",
+    "url": "https://seeinglogic.com/posts/visual-readability-patterns/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742478067000,
+    "hearable": true,
+    "id": "1529-1742478067000",
+    "title": "The :has selector in use ✣ S.Bistrović",
+    "url": "https://www.silvestar.codes/articles/the-has-selector-in-use/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742478100000,
+    "hearable": true,
+    "id": "1530-1742478100000",
+    "title": "Why Local-First Software Is the Future and its Limitations | RxDB - JavaScript Database",
+    "url": "https://rxdb.info/articles/local-first-future.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742478133000,
+    "hearable": true,
+    "id": "1531-1742478133000",
+    "title": "How much traffic can a pre-rendered Next.js site really handle? by Martijn Hols",
+    "url": "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742478151000,
+    "hearable": true,
+    "id": "1532-1742478151000",
+    "title": "Great software design looks underwhelming | sean goedecke",
+    "url": "https://www.seangoedecke.com/great-software-design/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742478160000,
+    "hearable": true,
+    "id": "1533-1742478160000",
+    "title": "Madmeg's Blog",
+    "url": "https://0x0001.cc/blog/good-engineer.md?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742478173000,
+    "hearable": true,
+    "id": "1534-1742478173000",
+    "title": "Mako - Extremely fast, Production-grade web bundler",
+    "url": "https://makojs.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742541602000,
+    "hearable": true,
+    "id": "1535-1742541602000",
+    "title": "The URL is a great place to store state in React",
+    "url": "https://iamsahaj.xyz/blog/react-state-in-the-url/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742541615000,
+    "hearable": true,
+    "id": "1536-1742541615000",
+    "title": "Career advice in 2025. | Irrational Exuberance",
+    "url": "https://lethain.com/career-advice-2025/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742541756000,
+    "hearable": true,
+    "id": "1538-1742541756000",
+    "title": "Who is Free Software for?",
+    "url": "https://tante.cc/2025/03/03/who-is-free-software-for/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742541801000,
+    "hearable": true,
+    "id": "1539-1742541801000",
+    "title": "Cross-Site Requests | SMAGIN",
+    "url": "https://smagin.fyi/posts/cross-site-requests/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742541825000,
+    "hearable": true,
+    "id": "1540-1742541825000",
+    "title": "Why we ditched Next.js and never looked back | Blog — Northflank",
+    "url": "https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742542323000,
+    "hearable": true,
+    "id": "1541-1742542323000",
+    "title": "How Core Git Developers Configure Git",
+    "url": "https://blog.gitbutler.com/how-git-core-devs-configure-git/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742637807000,
+    "hearable": true,
+    "id": "1542-1742637807000",
+    "title": "Minding the gaps: A new way to draw separators in CSS - Microsoft Edge Blog",
+    "url": "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742637879000,
+    "hearable": true,
+    "id": "1543-1742637879000",
+    "title": "The Frontend Treadmill - These Yaks Ain’t Gonna Shave Themselves",
+    "url": "https://polotek.net/posts/the-frontend-treadmill/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742637887000,
+    "hearable": true,
+    "id": "1544-1742637887000",
+    "title": "Next.js vs TanStack | Kyle Gill",
+    "url": "https://www.kylegill.com/essays/next-vs-tanstack/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742637892000,
+    "hearable": true,
+    "id": "1545-1742637892000",
+    "title": "Gatsby vs. Next.js | Jared Palmer",
+    "url": "https://jaredpalmer.com/blog/gatsby-vs-nextjs"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742637937000,
+    "hearable": true,
+    "id": "1546-1742637937000",
+    "title": "Frontend Practice | Become a better frontend developer.",
+    "url": "https://www.frontendpractice.com/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742856180000,
+    "hearable": true,
+    "id": "1547-1742856180000",
+    "title": "The New Three-Tier Application | DBOS",
+    "url": "https://www.dbos.dev/blog/new-three-tier-application?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742856188000,
+    "hearable": true,
+    "id": "1548-1742856188000",
+    "title": "React Trends in 2025",
+    "url": "https://www.robinwieruch.de/react-trends/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742856235000,
+    "hearable": false,
+    "id": "1549-1742856235000",
+    "title": "GitHub - mnfst/manifest: 🦚 The 1-file backend.",
+    "url": "https://github.com/mnfst/manifest?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742856315000,
+    "hearable": true,
+    "id": "1550-1742856315000",
+    "title": "The Software Engineering Identity Crisis - Annie Vella",
+    "url": "https://annievella.com/posts/the-software-engineering-identity-crisis/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1742923890000,
+    "hearable": true,
+    "id": "1551-1742923890000",
+    "title": "How the f*ck do you do estimates? : r/ExperiencedDevs",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1jiznoo/how_the_fck_do_you_do_estimates/?utm_source=tldrwebdev&rdt=62652"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743007768000,
+    "hearable": true,
+    "id": "1552-1743007768000",
+    "title": "Common React libraries architecture | Felipe Gustavo's Blog",
+    "url": "https://www.felgus.dev/blog/common-react-lib-architecture?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743008173000,
+    "hearable": true,
+    "id": "1553-1743008173000",
+    "title": "Polypane, The browser for ambitious web developers",
+    "url": "https://polypane.app/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743008358000,
+    "hearable": true,
+    "id": "1554-1743008358000",
+    "title": "Authorization in Next.js",
+    "url": "https://www.robinwieruch.de/next-authorization/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743076493000,
+    "hearable": true,
+    "id": "1555-1743076493000",
+    "title": "Breadcrumbs Are Dead in Web Design",
+    "url": "https://webdesignerdepot.com/breadcrumbs-are-dead-in-web-design/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743076512000,
+    "hearable": true,
+    "id": "1556-1743076512000",
+    "title": "Build Times - You should know this before choosing Next.js",
+    "url": "https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743076589000,
+    "hearable": true,
+    "id": "1557-1743076589000",
+    "title": "Lazy Load Background Images with the IntersectionObserver API | DebugBear",
+    "url": "https://www.debugbear.com/blog/lazy-load-background-images-intersection-observer?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743170732000,
+    "hearable": true,
+    "id": "1558-1743170732000",
+    "title": "Experimenting with React View Transitions | Frontend at Scale",
+    "url": "https://frontendatscale.com/issues/43/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743535480000,
+    "hearable": true,
+    "id": "1559-1743535480000",
+    "title": "Deploying a Next.js App to Production in any server | SayBackend",
+    "url": "https://www.saybackend.com/blog/04-deploy-nextjs-to-production-without-vercel/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743535496000,
+    "hearable": true,
+    "id": "1560-1743535496000",
+    "title": "Das Element <select> kann jetzt mit CSS angepasst werden  |  Blog  |  Chrome for Developers",
+    "url": "https://developer.chrome.com/blog/a-customizable-select?utm_source=tldrwebdev&hl=de"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743621017000,
+    "hearable": true,
+    "id": "1561-1743621017000",
+    "title": "Programming with an AI copilot: My perspective as a senior dev",
+    "url": "https://mlagerberg.com/blog-ai-copilot/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743621025000,
+    "hearable": true,
+    "id": "1562-1743621025000",
+    "title": "Why I stopped using AI code editors · Luciano Nooijen",
+    "url": "https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743687682000,
+    "hearable": true,
+    "id": "1563-1743687682000",
+    "title": "Minimal CSS-only blurry image placeholders",
+    "url": "https://leanrada.com/notes/css-only-lqip/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743789599000,
+    "hearable": true,
+    "id": "1564-1743789599000",
+    "title": "Overengineered anchor links - 35®",
+    "url": "https://thirty-five.com/overengineered-anchoring?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743789624000,
+    "hearable": true,
+    "id": "1565-1743789624000",
+    "title": "Engineering a Trace Details Page That Handles a Million Spans",
+    "url": "https://newsletter.signoz.io/p/enabling-a-million-spans-in-trace-details-page?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743789648000,
+    "hearable": true,
+    "id": "1566-1743789648000",
+    "title": "Senior Developer Skills in the AI Age: Leveraging Experience for Better Results • Manuel Kießling",
+    "url": "https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743789692000,
+    "hearable": true,
+    "id": "1567-1743789692000",
+    "title": "Why We Moved off Next.js - Documenso",
+    "url": "https://documenso.com/de/blog/why-we-moved-off-next-js?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1743789720000,
+    "hearable": true,
+    "id": "1568-1743789720000",
+    "title": "React Architecture Tradeoffs: SPA, SSR, or RSC",
+    "url": "https://reacttraining.com/blog/react-architecture-spa-ssr-rsc?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744033054000,
+    "hearable": true,
+    "id": "1569-1744033054000",
+    "title": "React.memo Demystified: When It Helps and When It Hurts · cekrem.github.io",
+    "url": "https://cekrem.github.io/posts/react-memo-when-it-helps-when-it-hurts/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744033075000,
+    "hearable": true,
+    "id": "1570-1744033075000",
+    "title": "The Insanity of Being a Software Engineer | 0x1",
+    "url": "https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744033092000,
+    "hearable": false,
+    "id": "1571-1744033092000",
+    "title": "pioner92/rn-fade-wrapper: 🔥 Fade gradient wrapper for React Native scrollable views and overlays on iOS and Android.",
+    "url": "https://github.com/pioner92/rn-fade-wrapper?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744033121000,
+    "hearable": true,
+    "id": "1572-1744033121000",
+    "title": "Why the Latest JavaScript Frameworks Are a Waste of Time - DEV Community",
+    "url": "https://dev.to/holasoymalva/why-the-latest-javascript-frameworks-are-a-waste-of-time-52pc?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744112023000,
+    "hearable": true,
+    "id": "1573-1744112023000",
+    "title": "Comparing AI Unit Test Generators on TypeScript: Tusk vs. Cursor Agent vs. Claude Code | Tusk Blog",
+    "url": "https://blog.usetusk.ai/blog/comparing-ai-agents-for-unit-test-generation-typescript?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744112034000,
+    "hearable": true,
+    "id": "1574-1744112034000",
+    "title": "Building Robust React Apps with Zustand and Immer - Giovanni Crisalfi",
+    "url": "https://zwit.link/posts/20250301173228-building-robust-react-apps-with-zustand-and-immer/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744112082000,
+    "hearable": false,
+    "id": "1575-1744112082000",
+    "title": "holepunchto/bare: Small and modular JavaScript runtime for desktop and mobile",
+    "url": "https://github.com/holepunchto/bare?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744289384000,
+    "hearable": true,
+    "id": "1578-1744289384000",
+    "title": "5 Non-LLM Software Trends To Be Excited About",
+    "url": "https://read.engineerscodex.com/p/5-non-llm-software-trends-to-be-excited?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744289395000,
+    "hearable": true,
+    "id": "1579-1744289395000",
+    "title": "Why you need a custom context provider",
+    "url": "https://gabrielpichot.fr/blog/why-you-need-a-custom-context-provider/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744289404000,
+    "hearable": true,
+    "id": "1580-1744289404000",
+    "title": "I guess some request headers are more trustworthy than others. | Alex MacArthur",
+    "url": "https://macarthur.me/posts/forbidden-request-headers/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744289462000,
+    "hearable": true,
+    "id": "1581-1744289462000",
+    "title": "Node.js — Making Node.js Downloads Reliable",
+    "url": "https://nodejs.org/en/blog/announcements/making-nodejs-downloads-reliable?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744289475000,
+    "hearable": true,
+    "id": "1582-1744289475000",
+    "title": "React for Two Computers — overreacted",
+    "url": "https://overreacted.io/react-for-two-computers/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744371929000,
+    "hearable": true,
+    "id": "1583-1744371929000",
+    "title": "Every Caching Strategy Explained in 5 Minutes - SWE Quiz",
+    "url": "https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744371950000,
+    "hearable": true,
+    "id": "1584-1744371950000",
+    "title": "How the Colossus stateful protocol benefits Rapid Storage | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744371964000,
+    "hearable": true,
+    "id": "1585-1744371964000",
+    "title": "Default styles for h1 elements are changing | MDN Blog",
+    "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744372038000,
+    "hearable": true,
+    "id": "1586-1744372038000",
+    "title": "The 2025 AI Index Report | Stanford HAI",
+    "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744372050000,
+    "hearable": true,
+    "id": "1587-1744372050000",
+    "title": "Thread by @tannerlinsley on Thread Reader App – Thread Reader App",
+    "url": "https://threadreaderapp.com/thread/1908723776650355111.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744372074000,
+    "hearable": true,
+    "id": "1588-1744372074000",
+    "title": "Top 5 CSS Navigation Menu Mistakes",
+    "url": "https://blog.css-weekly.com/top-5-css-navigation-menu-mistakes?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744806516000,
+    "hearable": true,
+    "id": "1594-1744806516000",
+    "title": "JSX Over The Wire — overreacted",
+    "url": "https://overreacted.io/jsx-over-the-wire/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744806526000,
+    "hearable": true,
+    "id": "1595-1744806526000",
+    "title": "✨ How I Reduced My React Bundle Size by 30% (With Real Examples)",
+    "url": "https://www.frontendjoy.com/p/how-i-reduced-my-react-bundle-size-by-30-with-real-examples?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1744806579000,
+    "hearable": true,
+    "id": "1596-1744806579000",
+    "title": "How to be the best programmer, according to Daniel Terhorst-North - ShiftMag",
+    "url": "https://shiftmag.dev/the-best-programmer-daniel-terhorst-north-3526/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745411823104,
+    "hearable": true,
+    "id": "1609-1745411823104",
+    "title": "Faster Lazy Loading in React Router v7.5+ | Remix",
+    "url": "https://remix.run/blog/faster-lazy-loading?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745411872382,
+    "hearable": true,
+    "id": "1610-1745411872382",
+    "title": "Scale Your Project with Layered React Structure | Playful Programming",
+    "url": "https://playfulprogramming.com/posts/layered-react-structure?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745411945275,
+    "hearable": true,
+    "id": "1611-1745411945275",
+    "title": "How To Build An Agent | Amp",
+    "url": "https://ampcode.com/how-to-build-an-agent?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745495624014,
+    "hearable": true,
+    "id": "1613-1745495624014",
+    "title": "React Labs: View Transitions, Activity, and more – React",
+    "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745495639267,
+    "hearable": true,
+    "id": "1614-1745495639267",
+    "title": "MCPs, Gatekeepers, and the Future of AI - by Charlie Graham",
+    "url": "https://iamcharliegraham.substack.com/p/mcps-gatekeepers-and-the-future-of?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745495655646,
+    "hearable": true,
+    "id": "1615-1745495655646",
+    "title": "React Compiler RC – React",
+    "url": "https://react.dev/blog/2025/04/21/react-compiler-rc?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745495729304,
+    "hearable": true,
+    "id": "1616-1745495729304",
+    "title": "How I write my blogs in Obsidian and publish instantly | Gautham Shankar",
+    "url": "https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745563699056,
+    "hearable": true,
+    "id": "1619-1745563699056",
+    "title": "RedwoodSDK is a React framework for Cloudflare",
+    "url": "https://rwsdk.com/personal-software?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745563833388,
+    "hearable": true,
+    "id": "1618-1745563833388",
+    "title": "Default styles for h1 elements are changing | MDN Blog",
+    "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745582386144,
+    "hearable": true,
+    "id": "1623-1745582386144",
+    "title": "Guide to fast websites with Next.js: Tips for maximizing server speeds and minimizing client burden - Vercel",
+    "url": "https://vercel.com/blog/guide-to-fast-websites-with-next-js-tips-for-maximizing-server-speeds?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745582406275,
+    "hearable": true,
+    "id": "1620-1745582406275",
+    "title": "Impossible Components — overreacted",
+    "url": "https://overreacted.io/impossible-components/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745582454965,
+    "hearable": true,
+    "id": "1622-1745582454965",
+    "title": "Generating 1 Million PDFs in 10 Minutes • Erik Steiger",
+    "url": "https://www.ersteiger.com/posts/rendering-one-million-pdfs/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745582462748,
+    "hearable": true,
+    "id": "1621-1745582462748",
+    "title": "Mark Zuckerberg Says Social Media Is Over | The New Yorker",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745843184350,
+    "hearable": true,
+    "id": "1625-1745843184350",
+    "title": "Startup Weekend: How we Won the Competition",
+    "url": "https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745843206518,
+    "hearable": false,
+    "id": "1626-1745843206518",
+    "title": "GitHub - magnitudedev/magnitude: Open source, AI-native testing framework for web apps",
+    "url": "https://github.com/magnitudedev/magnitude?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745843237638,
+    "hearable": true,
+    "id": "1627-1745843237638",
+    "title": "When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering",
+    "url": "https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745926211035,
+    "hearable": true,
+    "id": "1629-1745926211035",
+    "title": "How Meta understands data at scale - Engineering at Meta",
+    "url": "https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745926231017,
+    "hearable": true,
+    "id": "1630-1745926231017",
+    "title": "Architect of Ruin - News",
+    "url": "https://deadmoney.gg/news/articles/migrating-away-from-rust?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745926265169,
+    "hearable": true,
+    "id": "1631-1745926265169",
+    "title": "The One-Person Framework in practice",
+    "url": "https://bramjetten.dev/articles/the-one-person-framework-in-practice?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1745926343303,
+    "hearable": true,
+    "id": "1633-1745926343303",
+    "title": "This blog is hosted on a Nintendo Wii",
+    "url": "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746012392307,
+    "hearable": true,
+    "id": "1635-1746012392307",
+    "title": "Tailwind vs Linaria: Performance Investigation",
+    "url": "https://www.developerway.com/posts/tailwind-vs-linaria-performance?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746012420357,
+    "hearable": true,
+    "id": "1636-1746012420357",
+    "title": "Programming languages should have a tree traversal primitive",
+    "url": "https://blog.tylerglaiel.com/p/programming-languages-should-have?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746012447223,
+    "hearable": false,
+    "id": "1637-1746012447223",
+    "title": "GitHub - wipeautcrafter/jsfontpicker: An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages.",
+    "url": "https://github.com/wipeautcrafter/jsfontpicker?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746012457563,
+    "hearable": true,
+    "id": "1638-1746012457563",
+    "title": "Daring Fireball: Is Chrome Even a Sellable Asset?",
+    "url": "https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746012466502,
+    "hearable": true,
+    "id": "1639-1746012466502",
+    "title": "React-based Static Site Generators in 2025: Performance and Scalability",
+    "url": "https://crystallize.com/blog/react-static-site-generators?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746126291438,
+    "hearable": true,
+    "id": "1643-1746126291438",
+    "title": "Good vs Great Animations",
+    "url": "https://emilkowal.ski/ui/good-vs-great-animations?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746126300209,
+    "hearable": true,
+    "id": "1642-1746126300209",
+    "title": "Concurrent Optimistic Updates in React Query | TkDodo's blog",
+    "url": "https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746126309098,
+    "hearable": true,
+    "id": "1641-1746126309098",
+    "title": "Elevate | Addy Osmani | Substack",
+    "url": "https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746187380154,
+    "hearable": true,
+    "id": "1644-1746187380154",
+    "title": "What Does \"use client\" Do? — overreacted",
+    "url": "https://overreacted.io/what-does-use-client-do/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746436533579,
+    "hearable": true,
+    "id": "1646-1746436533579",
+    "title": "Quick Start | TanStack Start React Docs",
+    "url": "https://tanstack.com/start/latest/docs/framework/react/quick-start#impatient"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746465579063,
+    "hearable": true,
+    "id": "1650-1746465579063",
+    "title": "Pluralistic: The enshittification of tech jobs (27 Apr 2025) – Pluralistic: Daily links from Cory Doctorow",
+    "url": "https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746465591887,
+    "hearable": true,
+    "id": "1649-1746465591887",
+    "title": "Don't make Google sell Chrome",
+    "url": "https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746465601706,
+    "hearable": true,
+    "id": "1651-1746465601706",
+    "title": "Part 1: How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js | Hardcover",
+    "url": "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746465641928,
+    "hearable": true,
+    "id": "1648-1746465641928",
+    "title": "DuckDB is Probably the Most Important Geospatial Software of the Last Decade | Drew Breunig",
+    "url": "https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746519986966,
+    "hearable": true,
+    "id": "1653-1746519986966",
+    "title": "Advanced React in the Wild",
+    "url": "https://largeapps.dev/case-studies/advanced/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746520061207,
+    "hearable": true,
+    "id": "1654-1746520061207",
+    "title": "{transitions} = f(state) / Jordan Eldredge",
+    "url": "https://jordaneldredge.com/blog/transitions-f-of-state/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746520102527,
+    "hearable": true,
+    "id": "1655-1746520102527",
+    "title": "Fuma Nama | Some Nice Things with SVG",
+    "url": "https://fuma-nama.vercel.app/blog/svg-art?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746520126498,
+    "hearable": true,
+    "id": "1656-1746520126498",
+    "title": "Google Is Winning on Every AI Front - by Alberto Romero",
+    "url": "https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746520147623,
+    "hearable": true,
+    "id": "1657-1746520147623",
+    "title": "React Reconciliation: The Hidden Engine Behind Your Components · cekrem.github.io",
+    "url": "https://cekrem.github.io/posts/react-reconciliation-deep-dive/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746520178895,
+    "hearable": true,
+    "id": "1658-1746520178895",
+    "title": "Hard times for junior programmers : r/webdev",
+    "url": "https://www.reddit.com/r/webdev/comments/1jywbit/hard_times_for_junior_programmers/?utm_source=tldrwebdev&rdt=44800"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746520200940,
+    "hearable": true,
+    "id": "1659-1746520200940",
+    "title": "Requirements change until they don't • Buttondown",
+    "url": "https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746539277200,
+    "hearable": true,
+    "id": "1662-1746539277200",
+    "title": "5 Core Distributed Concepts Every Developer Should Know - SWE Quiz",
+    "url": "https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746539288209,
+    "hearable": true,
+    "id": "1661-1746539288209",
+    "title": "14 web performance tips for 2025 | sia.codes",
+    "url": "https://sia.codes/posts/web-perf-tips-2025/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746539305396,
+    "hearable": true,
+    "id": "1660-1746539305396",
+    "title": "Why We Should Learn Multiple Programming Languages",
+    "url": "https://www.architecture-weekly.com/p/why-we-should-learn-multiple-programming?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746619011820,
+    "hearable": true,
+    "id": "1665-1746619011820",
+    "title": "How to write error messages that actually help users rather than frustrate them - Piccalilli",
+    "url": "https://piccalil.li/blog/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746619126657,
+    "hearable": true,
+    "id": "1664-1746619126657",
+    "title": "Preparing for when the Machine Stops",
+    "url": "https://idiallo.com/blog/when-the-machine-stops?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746708965672,
+    "hearable": true,
+    "id": "1667-1746708965672",
+    "title": "RSC for Astro Developers — overreacted",
+    "url": "https://overreacted.io/rsc-for-astro-developers/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746709076787,
+    "hearable": true,
+    "id": "1668-1746709076787",
+    "title": "Inheritance was invented as a performance hack",
+    "url": "https://catern.com/inheritance.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746792896049,
+    "hearable": true,
+    "id": "1669-1746792896049",
+    "title": "How Node.js Works Behind the Scenes",
+    "url": "https://www.deepintodev.com/blog/how-nodejs-works-behind-the-scenes?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746792915828,
+    "hearable": true,
+    "id": "1670-1746792915828",
+    "title": "Hardening GitHub Actions: Lessons from Recent Attacks | Wiz Blog",
+    "url": "https://www.wiz.io/blog/github-actions-security-guide?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746792924533,
+    "hearable": true,
+    "id": "1671-1746792924533",
+    "title": "Nextjs is a pain in the ass : r/webdev",
+    "url": "https://www.reddit.com/r/webdev/comments/1kh3vnc/nextjs_is_a_pain_in_the_ass/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046136,
+    "dateAdded": 1746793002709,
+    "hearable": true,
+    "id": "1672-1746793002709",
+    "title": "From: Steve Jobs. \"Great idea, thank you.\" | #haymanSplaining",
+    "url": "https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747057670470,
+    "hearable": true,
+    "id": "1675-1747057670470",
+    "title": "Hyper-Typing",
+    "url": "https://pscanf.com/s/341/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747224670258,
+    "hearable": true,
+    "id": "1679-1747224670258",
+    "title": "The Height Enigma • Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/css/height-enigma/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747224690516,
+    "hearable": true,
+    "id": "1680-1747224690516",
+    "title": "Frontends are hard | SST",
+    "url": "https://sst.dev/blog/frontends-are-hard/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747224734798,
+    "hearable": true,
+    "id": "1681-1747224734798",
+    "title": "Writing that changed how I think about PL | Max Bernstein",
+    "url": "https://bernsteinbear.com/blog/pl-writing/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747400822480,
+    "hearable": true,
+    "id": "1688-1747400822480",
+    "title": "How we made billing backendless - Autumn Pricing",
+    "url": "https://useautumn.com/blog/backendless?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747400844496,
+    "hearable": true,
+    "id": "1685-1747400844496",
+    "title": "Static as a Server — overreacted",
+    "url": "https://overreacted.io/static-as-a-server/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747400996320,
+    "hearable": true,
+    "id": "1686-1747400996320",
+    "title": "Make Games with Easel | Easel",
+    "url": "https://easel.games/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747401008407,
+    "hearable": true,
+    "id": "1689-1747401008407",
+    "title": "Stack overflow is almost dead - The Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747401056317,
+    "hearable": true,
+    "id": "1687-1747401056317",
+    "title": "A Behind-the-Scenes Look at How We Release the Spotify App (Part 1) | Spotify Engineering",
+    "url": "https://engineering.atspotify.com/2025/4/how-we-release-the-spotify-app-part-1?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747677619428,
+    "hearable": true,
+    "id": "1691-1747677619428",
+    "title": "Push Ifs Up And Fors Down",
+    "url": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747677674917,
+    "hearable": true,
+    "id": "1692-1747677674917",
+    "title": "JavaScript's New Superpower: Explicit Resource Management · V8",
+    "url": "https://v8.dev/features/explicit-resource-management"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747677682629,
+    "hearable": true,
+    "id": "1693-1747677682629",
+    "title": "React Internals: Which useEffect runs first? – Frontend Masters Blog",
+    "url": "https://frontendmasters.com/blog/react-internals-which-useeffect-runs-first/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747816636597,
+    "hearable": true,
+    "id": "1695-1747816636597",
+    "title": "Introducing Zod 4 | Zod",
+    "url": "https://zod.dev/v4?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747816679835,
+    "hearable": true,
+    "id": "1696-1747816679835",
+    "title": "No, react context is not causing too many renders",
+    "url": "https://blacksheepcode.com/posts/no_react_context_is_not_causing_too_many_renders?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046136,
+    "dateAdded": 1747829498555,
+    "hearable": true,
+    "id": "1698-1747829498555",
+    "title": "Robust Data Fetching Architecture For Complex React/Next.js Apps",
+    "url": "https://www.trevorlasn.com/blog/fetching-data-for-complex-next-and-react-apps?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1747829506686,
+    "hearable": true,
+    "id": "1699-1747829506686",
+    "title": "The Limits of RSC: A Practitioner's Journey",
+    "url": "https://www.nirtamir.com/articles/the-limits-of-rsc-a-practitioners-journey/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1747829560232,
+    "hearable": true,
+    "id": "1700-1747829560232",
+    "title": "Moxie Marlinspike >> Blog >> The magic of software; or, what makes a good engineer also makes a good engineering organization",
+    "url": "https://moxie.org/2024/09/23/a-good-engineer.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1747916587483,
+    "hearable": true,
+    "id": "1702-1747916587483",
+    "title": "You can serialize a promise in React",
+    "url": "https://twofoldframework.com/blog/you-can-serialize-a-promise-in-react?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748164189342,
+    "hearable": true,
+    "id": "1707-1748164189342",
+    "title": "On 1,145 pull requests per day",
+    "url": "https://saile.it/1145-pull-requests-per-day/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748164244771,
+    "hearable": false,
+    "id": "1706-1748164244771",
+    "title": "GitHub - kepano/defuddle: Extract the main content from web pages.",
+    "url": "https://github.com/kepano/defuddle?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748164376234,
+    "hearable": true,
+    "id": "1704-1748164376234",
+    "title": "MCP explained without hype or fluff - nilenso blog",
+    "url": "https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748164389567,
+    "hearable": true,
+    "id": "1705-1748164389567",
+    "title": "Announcing TypeScript Native Previews - TypeScript",
+    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748260253762,
+    "hearable": true,
+    "id": "1709-1748260253762",
+    "title": "Concurrent Rendering - ui.dev",
+    "url": "https://ui.dev/c/react/concurrent-rendering?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748288900671,
+    "hearable": true,
+    "id": "1714-1748288900671",
+    "title": "How to run a LLM local in your web app | by Fernando Abolafio | JavaScript in Plain English",
+    "url": "https://javascript.plainenglish.io/running-llms-in-the-browser-1ac0dbd15397"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748289037977,
+    "hearable": true,
+    "id": "1715-1748289037977",
+    "title": "Running Google’s Gemma2 LLM locally with LangchainJS & Ollama | by Julien Landuré | Google Cloud - Community | Medium",
+    "url": "https://medium.com/google-cloud/running-googles-gemma2-llm-locally-with-langchainjs-ollama-ea4b0bc8747b"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748291355539,
+    "hearable": true,
+    "id": "1712-1748291355539",
+    "title": "IG Jazz Berlin – Noir de Soul",
+    "url": "https://www.ig-jazz-berlin.de/jazzwoche-berlin/programm/jazzwoche-7/noir-de-soul"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748314081038,
+    "hearable": true,
+    "id": "1713-1748314081038",
+    "title": "Block Print Berlin Workshops — Māya",
+    "url": "https://www.ateliermaya.eu/blockprintberlin"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748446631730,
+    "hearable": true,
+    "id": "1719-1748446631730",
+    "title": "Node.js — Trip report: Node.js collaboration summit (2025 Paris)",
+    "url": "https://nodejs.org/en/blog/events/collab-summit-2025-paris?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748462296732,
+    "hearable": true,
+    "id": "1720-1748462296732",
+    "title": "SolidJS for React Developers",
+    "url": "https://marmelab.com/blog/2025/05/28/solidjs-for-react-developper.html?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#236:%20Remix,%20TanStack,%20RSC,%20RedwoodSDK,%20Storybook,%20Docusaurus%20%7C%20ExecuTorch,%20Screens,%20FlashList,%20Reanimated,%20Expo,%20EAS,%20Radon%20%7C%20TypeScript,%20Temporal,%20Angular,%20JSPM,%20ESLint,%20tsdown%20-%2017771131"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748547572360,
+    "hearable": true,
+    "id": "1718-1748547572360",
+    "title": "Puter.js - Free Serverless Auth, Cloud, and AI",
+    "url": "https://developer.puter.com/?utm_source=bytes.dev&ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748597546307,
+    "hearable": true,
+    "id": "1722-1748597546307",
+    "title": "The Beauty of TanStack Router | TkDodo's blog",
+    "url": "https://tkdodo.eu/blog/the-beauty-of-tan-stack-router?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1748877046137,
+    "dateAdded": 1748612998556,
+    "hearable": true,
+    "id": "1724-1748612998556",
+    "title": "Learning C3 | alloc.dev",
+    "url": "https://alloc.dev/2025/05/29/learning_c3?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1748895338439,
+    "hearable": true,
+    "id": "1727-1748895338439",
+    "title": "Progressive JSON — overreacted",
+    "url": "https://overreacted.io/progressive-json/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1748895395388,
+    "hearable": true,
+    "id": "1726-1748895395388",
+    "title": "How Generative Engine Optimization (GEO) Rewrites the Rules of Search | Andreessen Horowitz",
+    "url": "https://a16z.com/geo-over-seo/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1748966995084,
+    "hearable": true,
+    "id": "1729-1748966995084",
+    "title": "Decorative text within HTML – Terence Eden’s Blog",
+    "url": "https://shkspr.mobi/blog/2025/05/decorative-text-within-html/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749133776385,
+    "hearable": true,
+    "id": "1736-1749133776385",
+    "title": "Machine Code Isn't Scary",
+    "url": "https://jimmyhmiller.com/machine-code-isnt-scary?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749217062377,
+    "hearable": false,
+    "id": "1738-1749217062377",
+    "title": "GitHub - wzhudev/reverse-linear-sync-engine: A reverse engineering of Linear's sync engine. Endorsed by its co-founder & CTO.",
+    "url": "https://github.com/wzhudev/reverse-linear-sync-engine?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749217085679,
+    "hearable": true,
+    "id": "1739-1749217085679",
+    "title": "One Roundtrip Per Navigation — overreacted",
+    "url": "https://overreacted.io/one-roundtrip-per-navigation/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749217106419,
+    "hearable": true,
+    "id": "1740-1749217106419",
+    "title": "What a developer needs to know about SCIM | Tesseral Blog",
+    "url": "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749217232022,
+    "hearable": true,
+    "id": "1741-1749217232022",
+    "title": "The SignalFire State of Tech Talent Report - 2025",
+    "url": "https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749279659757,
+    "hearable": true,
+    "id": "1744-1749279659757",
+    "title": "Search Params Are State | TanStack Blog",
+    "url": "https://tanstack.com/blog/search-params-are-state?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749279668559,
+    "hearable": true,
+    "id": "1750-1749279668559",
+    "title": "How Imports Work in RSC — overreacted",
+    "url": "https://overreacted.io/how-imports-work-in-rsc/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749279681451,
+    "hearable": true,
+    "id": "1749-1749279681451",
+    "title": "`document.currentScript` is more useful than I thought. | Alex MacArthur",
+    "url": "https://macarthur.me/posts/current-script/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749533376749,
+    "hearable": true,
+    "id": "1746-1749533376749",
+    "title": "A JavaScript Developer's Guide to Go",
+    "url": "https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749533426168,
+    "hearable": true,
+    "id": "1745-1749533426168",
+    "title": "What \"Working\" Means in the Era of AI Apps | Andreessen Horowitz",
+    "url": "https://a16z.com/revenue-benchmarks-ai-apps/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749533451873,
+    "hearable": true,
+    "id": "1743-1749533451873",
+    "title": "Odyc.js",
+    "url": "https://odyc.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749533559373,
+    "hearable": true,
+    "id": "1748-1749533559373",
+    "title": "Falsehoods Programmers Believe About Aviation",
+    "url": "https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749533569874,
+    "hearable": true,
+    "id": "1747-1749533569874",
+    "title": "Focus and Context and LLMs | Taras' Blog on AI, Perf, Hacks",
+    "url": "https://taras.glek.net/posts/focus-and-context-and-llms/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749567486207,
+    "hearable": true,
+    "id": "1751-1749567486207",
+    "title": "How Imports Work in RSC — overreacted",
+    "url": "https://overreacted.io/how-imports-work-in-rsc/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749567516469,
+    "hearable": true,
+    "id": "1752-1749567516469",
+    "title": "Resilient Import Maps - Better Theme Development and Beyond (2025) - Shopify",
+    "url": "https://shopify.engineering/resilient-import-maps?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749567589953,
+    "hearable": true,
+    "id": "1753-1749567589953",
+    "title": "Add App Shortcuts to your Expo applications",
+    "url": "https://kutay.boo/blog/expo-app-shortcuts?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749629116208,
+    "hearable": true,
+    "id": "1755-1749629116208",
+    "title": "What’s new in Svelte: June 2025",
+    "url": "https://svelte.dev/blog/whats-new-in-svelte-june-2025?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749629279587,
+    "hearable": true,
+    "id": "1756-1749629279587",
+    "title": "Odyc.js",
+    "url": "https://odyc.dev/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749629310368,
+    "hearable": true,
+    "id": "1757-1749629310368",
+    "title": "Roadmap to v4 · Nuxt Blog",
+    "url": "https://nuxt.com/blog/roadmap-v4?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749643536635,
+    "hearable": true,
+    "id": "1758-1749643536635",
+    "title": "“Localhost tracking” explained. It could cost Meta 32 billion.",
+    "url": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749643556627,
+    "hearable": true,
+    "id": "1759-1749643556627",
+    "title": "How Vercel's adapting SEO for LLMs and AI search - Vercel",
+    "url": "https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749643588805,
+    "hearable": true,
+    "id": "1760-1749643588805",
+    "title": "Android 16: Productivity, security and more features on Android",
+    "url": "https://blog.google/products/android/android-16/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749643625888,
+    "hearable": true,
+    "id": "1761-1749643625888",
+    "title": "Mastra Course: Learn to Build AI Agents",
+    "url": "https://mastra.ai/course?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749730767607,
+    "hearable": true,
+    "id": "1763-1749730767607",
+    "title": "crawshaw - 2025-06-08",
+    "url": "https://crawshaw.io/blog/programming-with-agents?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749730816857,
+    "hearable": true,
+    "id": "1764-1749730816857",
+    "title": "TanStack Form vs. React Hook Form - LogRocket Blog",
+    "url": "https://blog.logrocket.com/tanstack-form-vs-react-hook-form/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749730829403,
+    "hearable": true,
+    "id": "1765-1749730829403",
+    "title": "The first big AI disaster is yet to happen | sean goedecke",
+    "url": "https://www.seangoedecke.com/the-first-big-ai-disaster/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749758789617,
+    "hearable": true,
+    "id": "1767-1749758789617",
+    "title": "Reizdarm - FODMAP Liste für die FODMAP Diät – FODCORNER",
+    "url": "https://fodcorner.com/de-de/blogs/gesundheit/reizdarm-fodmap-liste-fuer-die-fodmap-diaet"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749824590158,
+    "hearable": true,
+    "id": "1768-1749824590158",
+    "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more · React Native",
+    "url": "https://reactnative.dev/blog/2025/06/12/react-native-0.80?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809407,
+    "dateAdded": 1749824635841,
+    "hearable": true,
+    "id": "1769-1749824635841",
+    "title": "Thread by @jamonholmgren on Thread Reader App – Thread Reader App",
+    "url": "https://threadreaderapp.com/thread/1932200003096990131.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750079113390,
+    "hearable": true,
+    "id": "1771-1750079113390",
+    "title": "Use Async Local Storage to prevent props drilling in Next.js Route handlers | Nico's Blog",
+    "url": "https://www.nico.fyi/blog/async-local-storage-to-prevent-props-drilling?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750079123892,
+    "hearable": true,
+    "id": "1772-1750079123892",
+    "title": "Things to avoid in JavaScript | WaspDev Blog",
+    "url": "https://waspdev.com/articles/2025-06-13/things-to-avoid-in-javascript?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750175811963,
+    "hearable": true,
+    "id": "1774-1750175811963",
+    "title": "What every dev should know about using Environment Variables",
+    "url": "https://expo.dev/blog/what-are-environment-variables?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750254013414,
+    "hearable": true,
+    "id": "1775-1750254013414",
+    "title": "The Ingredients of a Productive Monorepo",
+    "url": "https://blog.swgillespie.me/posts/monorepo-ingredients/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750254059609,
+    "hearable": true,
+    "id": "1776-1750254059609",
+    "title": "How JPEG Became the Internet’s Image Standard - IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/jpeg-image-format-history?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750254103908,
+    "hearable": true,
+    "id": "1777-1750254103908",
+    "title": "Building Effective AI Agents \\ Anthropic",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750254116842,
+    "hearable": true,
+    "id": "1778-1750254116842",
+    "title": "Home | Substack",
+    "url": "https://substack.com/home/post/p-165655726?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750341630571,
+    "hearable": true,
+    "id": "1781-1750341630571",
+    "title": "Reactivity is easy",
+    "url": "https://romgrk.com/posts/reactivity-is-easy?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1750427809408,
+    "dateAdded": 1750399008024,
+    "hearable": true,
+    "id": "1780-1750399008024",
+    "title": "Bringing React's <ViewTransition> to vanilla JS",
+    "url": "https://plainvanillaweb.com/blog/articles/2025-06-12-view-transitions/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750682468683,
+    "hearable": true,
+    "id": "1784-1750682468683",
+    "title": "How to negotiate your salary package",
+    "url": "https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750682476332,
+    "hearable": true,
+    "id": "1785-1750682476332",
+    "title": "The State of React and the Community in 2025 · Mark's Dev Blog",
+    "url": "https://blog.isquaredsoftware.com/2025/06/react-community-2025/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750779515762,
+    "hearable": true,
+    "id": "1787-1750779515762",
+    "title": "Effect – The best way to build robust apps in TypeScript",
+    "url": "https://effect.website/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750864588314,
+    "hearable": true,
+    "id": "1789-1750864588314",
+    "title": "Building the Twitter 1.0 Web Experience",
+    "url": "https://largeapps.dev/case-studies/twitter/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750864724900,
+    "hearable": true,
+    "id": "1790-1750864724900",
+    "title": "Basic facts about GPUs | Damek Davis’ Website",
+    "url": "https://damek.github.io/random/basic-facts-about-gpus/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750864757957,
+    "hearable": true,
+    "id": "1791-1750864757957",
+    "title": "MCP is eating the world—and it's here to stay",
+    "url": "https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750950450645,
+    "hearable": true,
+    "id": "1796-1750950450645",
+    "title": "A guide to Scroll-driven Animations with just CSS | WebKit",
+    "url": "https://webkit.org/blog/17101/a-guide-to-scroll-driven-animations-with-just-css/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750950496833,
+    "hearable": true,
+    "id": "1797-1750950496833",
+    "title": "Preparing for Google Zero - by CJ Gustafson",
+    "url": "https://www.mostlymetrics.com/p/preparing-for-google-zero-285?utm_source=tldrwebdev&triedRedirect=true"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1750950548983,
+    "hearable": true,
+    "id": "1795-1750950548983",
+    "title": "What Problems to Solve - By Richard Feynman",
+    "url": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1751032021869,
+    "hearable": true,
+    "id": "1799-1751032021869",
+    "title": "Understanding React Re-Renders: What Triggers Them and Why They Matter",
+    "url": "https://shramko.dev/blog/react-rerender?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1751875867057,
+    "dateAdded": 1751032097297,
+    "hearable": true,
+    "id": "1798-1751032097297",
+    "title": "Next.js 15.1+ is unusable outside of Vercel | Omar Abid - Personal Blog",
+    "url": "https://omarabid.com/nextjs-vercel?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752133049933,
+    "dateAdded": 1751876016207,
+    "hearable": true,
+    "id": "1801-1751876016207",
+    "title": "Common Notification Patterns - Base Site",
+    "url": "https://web-push-book.gauntface.com/common-notification-patterns/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752133049933,
+    "dateAdded": 1751906645233,
+    "hearable": false,
+    "id": "1803-1751906645233",
+    "title": "GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "url": "https://github.com/humanlayer/12-factor-agents?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752133049933,
+    "dateAdded": 1752051388425,
+    "hearable": true,
+    "id": "1805-1752051388425",
+    "title": "ADD / XOR / ROL: A non-anthropomorphized view of LLMs",
+    "url": "https://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html?utm_source=tldrwebdev&m=1"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752133049933,
+    "dateAdded": 1752077980424,
+    "hearable": true,
+    "id": "1807-1752077980424",
+    "title": "The History of React Through Code | Playful Programming",
+    "url": "https://playfulprogramming.com/posts/react-history-through-code?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#242:%20Vite%20RSC,%20Next.js,%20NuxtLabs,%20shadcn,%20TanStack,%20Valtio,%20XState,%20RHF%20%7C%20Unistyles,%20Rag,%20Shadow%20Insets,%20Ignite,%20Metro,%20RN%200.81%20RC%20%7C%20TypeScript,%20CSS%20Gaps,%20Browserlist-rs,%20Biome,%20Astro,%20esbuild%20-%2018236230"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752564034296,
+    "dateAdded": 1752264413768,
+    "hearable": true,
+    "id": "1809-1752264413768",
+    "title": "The accessibility pipeline for frontend teams",
+    "url": "https://storybook.js.org/blog/the-accessibility-pipeline-for-frontend-teams/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752564034297,
+    "dateAdded": 1752264433884,
+    "hearable": true,
+    "id": "1811-1752264433884",
+    "title": "Satisfies in TypeScript – Frontend Masters Blog",
+    "url": "https://frontendmasters.com/blog/satisfies-in-typescript/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752564034297,
+    "dateAdded": 1752329363931,
+    "hearable": true,
+    "id": "1810-1752329363931",
+    "title": "Using AI Without Leaving the Terminal: A Guide to llm",
+    "url": "https://kashw1n.com/blog/llm-cli/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1752564034297,
+    "dateAdded": 1752500793407,
+    "hearable": true,
+    "id": "1813-1752500793407",
+    "title": "MAKING SOFTWARE",
+    "url": "https://www.makingsoftware.com/chapters/how-a-screen-works?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1752564034297,
+    "dateAdded": 1752529223661,
+    "hearable": true,
+    "id": "1815-1752529223661",
+    "title": "What’s the difference between ordinary functions and arrow functions in JavaScript?",
+    "url": "https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752579221133,
+    "hearable": true,
+    "id": "1816-1752579221133",
+    "title": "CSS-Bedingungen mit der neuen if()-Funktion  |  Blog  |  Chrome for Developers",
+    "url": "https://developer.chrome.com/blog/if-article?utm_source=tldrwebdev&hl=de"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752579291027,
+    "hearable": true,
+    "id": "1817-1752579291027",
+    "title": "Protecting My Attention At The Dopamine Carnival - Amir Sharif",
+    "url": "https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752676487505,
+    "hearable": true,
+    "id": "1822-1752676487505",
+    "title": "What can agents actually do? | Irrational Exuberance",
+    "url": "https://lethain.com/what-can-agents-do/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752676495844,
+    "hearable": true,
+    "id": "1823-1752676495844",
+    "title": "No Time To Learn (Web) Framework X | Brain Baking",
+    "url": "https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752676508625,
+    "hearable": true,
+    "id": "1821-1752676508625",
+    "title": "No time to learn React - Keith Cirkel",
+    "url": "https://www.keithcirkel.co.uk/i-dont-have-time-to-learn-react/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752679120828,
+    "hearable": true,
+    "id": "1820-1752679120828",
+    "title": "The Architect’s Guide to Micro-Frontends: Module Federation with React & Angular",
+    "url": "https://developersvoice.com/blog/frontend/micro-frontends-with-react-and-angular/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#243:%20Next.js,%20TanStack,%20Compiler,%20React%20Router,%20R3f%20%7C%20Node-API,%20Wallet,%20Worklets,%20Apple%20LLM,%20Metro,%20Skia,%20Radon,%20RNEF%20%7C%20Nuxt,%20Deno,%20zshy,%20TypeGPU,%20Rspack%20-%2018311687"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752679146949,
+    "hearable": true,
+    "id": "1819-1752679146949",
+    "title": "How To Create Kinetic Image Animations with React-Three-Fiber | Codrops",
+    "url": "https://tympanus.net/codrops/2025/07/09/how-to-create-kinetic-image-animations-with-react-three-fiber/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#243:%20Next.js,%20TanStack,%20Compiler,%20React%20Router,%20R3f%20%7C%20Node-API,%20Wallet,%20Worklets,%20Apple%20LLM,%20Metro,%20Skia,%20Radon,%20RNEF%20%7C%20Nuxt,%20Deno,%20zshy,%20TypeGPU,%20Rspack%20-%2018311687"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752751963369,
+    "hearable": true,
+    "id": "1825-1752751963369",
+    "title": "I'm Switching to Python and Actually Liking It",
+    "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752883006856,
+    "hearable": true,
+    "id": "1827-1752883006856",
+    "title": "A deep dive into deeply recursive Go  - Mattermost",
+    "url": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752883021970,
+    "hearable": true,
+    "id": "1829-1752883021970",
+    "title": "My Experience With Claude Code After 2 Weeks of Adventures | sankalp's blog",
+    "url": "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1752883039077,
+    "hearable": true,
+    "id": "1828-1752883039077",
+    "title": "How I Use Claude Code to Ship Like a Team of Five",
+    "url": "https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753114322703,
+    "hearable": true,
+    "id": "1833-1753114322703",
+    "title": "Why I'm Betting Against AI Agents in 2025 (Despite Building Them)",
+    "url": "https://utkarshkanwat.com/writing/betting-against-agents/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753114360234,
+    "hearable": true,
+    "id": "1832-1753114360234",
+    "title": "Rethinking CLI interfaces for AI — ⍻",
+    "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753114374941,
+    "hearable": true,
+    "id": "1831-1753114374941",
+    "title": "How I keep up with AI progress (and why you must too) - nilenso blog",
+    "url": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753194316437,
+    "hearable": true,
+    "id": "1834-1753194316437",
+    "title": "5 things I learned from 5 years at Vercel | Lee Robinson",
+    "url": "https://leerob.com/vercel?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753194367689,
+    "hearable": true,
+    "id": "1835-1753194367689",
+    "title": "Work-Life Balance Slows Careers (E9 Engineer, ex-Meta)",
+    "url": "https://www.pathtostaff.com/p/work-life-balance-slows-careers-e9?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753270204681,
+    "hearable": true,
+    "id": "1838-1753270204681",
+    "title": "Medium",
+    "url": "https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753270266049,
+    "hearable": true,
+    "id": "1837-1753270266049",
+    "title": "daisyUI — Tailwind CSS Components ( version 5 update is here )",
+    "url": "https://daisyui.com/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753270321189,
+    "hearable": true,
+    "id": "1840-1753270321189",
+    "title": "The world’s longest React hooks migration | by Chris Krogh | Jun, 2025 | The Craft",
+    "url": "https://craft.faire.com/the-worlds-longest-react-hooks-migration-8f357cdcdbe9?gi=d2d8b8e89e9b&utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753270330658,
+    "hearable": true,
+    "id": "1839-1753270330658",
+    "title": "Don't animate height! | Granola",
+    "url": "https://www.granola.ai/blog/dont-animate-height?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753337907671,
+    "hearable": true,
+    "id": "1844-1753337907671",
+    "title": "How to Use Action Routes in React Router by sergiodxa",
+    "url": "https://sergiodxa.com/tutorials/use-action-routes-in-react-router?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#244:%20React%20Router,%20Compiler,%20Next.js,%20TanStack,%20JSX,%20Storybook%20%7C%20Reanimated,%20Hermes,%20Keyboard%20Controller,%20Screens,%20Node-API,%20Shimmer%20%7C%20TC39,%20tsgolint,%20Bun,%20Better-Auth,%20WebGPU%20-%2018388428"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753337916099,
+    "hearable": true,
+    "id": "1845-1753337916099",
+    "title": "Introducing Zustand (State Management) – Frontend Masters Blog",
+    "url": "https://frontendmasters.com/blog/introducing-zustand/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#244:%20React%20Router,%20Compiler,%20Next.js,%20TanStack,%20JSX,%20Storybook%20%7C%20Reanimated,%20Hermes,%20Keyboard%20Controller,%20Screens,%20Node-API,%20Shimmer%20%7C%20TC39,%20tsgolint,%20Bun,%20Better-Auth,%20WebGPU%20-%2018388428"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753338092905,
+    "hearable": true,
+    "id": "1842-1753338092905",
+    "title": "Leaving Next.js behind • Jean Tinland",
+    "url": "https://www.jeantinland.com/blog/leaving-nextjs-behind/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#244:%20React%20Router,%20Compiler,%20Next.js,%20TanStack,%20JSX,%20Storybook%20%7C%20Reanimated,%20Hermes,%20Keyboard%20Controller,%20Screens,%20Node-API,%20Shimmer%20%7C%20TC39,%20tsgolint,%20Bun,%20Better-Auth,%20WebGPU%20-%2018388428"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753338109288,
+    "hearable": true,
+    "id": "1843-1753338109288",
+    "title": "The present and the future of SPAs in React | Felipe Gustavo's Blog",
+    "url": "https://www.felgus.dev/blog/future-spa?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#244:%20React%20Router,%20Compiler,%20Next.js,%20TanStack,%20JSX,%20Storybook%20%7C%20Reanimated,%20Hermes,%20Keyboard%20Controller,%20Screens,%20Node-API,%20Shimmer%20%7C%20TC39,%20tsgolint,%20Bun,%20Better-Auth,%20WebGPU%20-%2018388428"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753793276588,
+    "hearable": true,
+    "id": "1852-1753793276588",
+    "title": "It's time for modern CSS to kill the SPA - Jono Alderson",
+    "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753875602139,
+    "hearable": true,
+    "id": "1854-1753875602139",
+    "title": "Predictive CI: Why Smart Teams Are Already Making the Switch - Tusk",
+    "url": "https://www.usetusk.ai/resources/predictive-ci-is-the-future?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753875675018,
+    "hearable": true,
+    "id": "1855-1753875675018",
+    "title": "Enough AI copilots! We need AI HUDs",
+    "url": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753875679787,
+    "hearable": true,
+    "id": "1856-1753875679787",
+    "title": "Is chat a good UI for AI? A Socratic dialogue",
+    "url": "https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753875683343,
+    "hearable": true,
+    "id": "1857-1753875683343",
+    "title": "Using Artificial Intelligence to Augment Human Intelligence",
+    "url": "https://distill.pub/2017/aia/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1753879721967,
+    "hearable": true,
+    "id": "1858-1753879721967",
+    "title": "Modelling Problems in Code: Objects vs Data",
+    "url": "https://deplet.ing/modelling-problems-in-code-objects-vs-data/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1754118926229,
+    "hearable": true,
+    "id": "1861-1754118926229",
+    "title": "Use Your Type System • Chris Dzombak",
+    "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1754119253582,
+    "hearable": true,
+    "id": "1862-1754119253582",
+    "title": "Face it: you're a crazy person - by Adam Mastroianni",
+    "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566580,
+    "dateAdded": 1754306727218,
+    "hearable": true,
+    "id": "1864-1754306727218",
+    "title": "Stop Re-Rendering — TanStack DB, the Embedded Client Database for TanStack Query | TanStack Blog",
+    "url": "https://tanstack.com/blog/tanstack-db-0.1-the-embedded-client-database-for-tanstack-query?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754406822453,
+    "hearable": true,
+    "id": "1866-1754406822453",
+    "title": "Compile Svelte 5 in your head | Tan Li Hau",
+    "url": "https://lihautan.com/compile-svelte-5-in-your-head?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754543876957,
+    "hearable": true,
+    "id": "1869-1754543876957",
+    "title": "Developers, Reinvented",
+    "url": "https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754543918094,
+    "hearable": true,
+    "id": "1868-1754543918094",
+    "title": "Agentic Coding Things That Didn’t Work | Armin Ronacher's Thoughts and Writings",
+    "url": "https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754567734286,
+    "hearable": true,
+    "id": "1871-1754567734286",
+    "title": "HTML is Dead, Long Live HTML — Acko.net",
+    "url": "https://acko.net/blog/html-is-dead-long-live-html/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754567751711,
+    "hearable": true,
+    "id": "1872-1754567751711",
+    "title": "It's time for modern CSS to kill the SPA - Jono Alderson",
+    "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754567800926,
+    "hearable": true,
+    "id": "1873-1754567800926",
+    "title": "Logical assignment operators in JavaScript: small syntax, big wins - Matt Smith",
+    "url": "https://allthingssmitty.com/2025/07/28/logical-assignment-operators-in-javascript-small-syntax-big-wins/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754655909988,
+    "hearable": true,
+    "id": "1875-1754655909988",
+    "title": "Unlocking Web Workers with React: A Step-by-Step Guide | Rahul's Blog",
+    "url": "https://www.rahuljuliato.com/posts/react-workers?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754656000338,
+    "hearable": true,
+    "id": "1876-1754656000338",
+    "title": "Building Bluesky Comments for My Blog",
+    "url": "https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754656010816,
+    "hearable": true,
+    "id": "1877-1754656010816",
+    "title": "Address formats around the world",
+    "url": "https://w3c.github.io/i18n-drafts/questions/qa-address-formats.en.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754656044818,
+    "hearable": true,
+    "id": "1878-1754656044818",
+    "title": "Publishers oppose W3C plan to kill third-party cookies • The Register",
+    "url": "https://www.theregister.com/2025/07/29/mow_w3c_cookie_complaint?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754946306742,
+    "hearable": true,
+    "id": "1882-1754946306742",
+    "title": "Zig's Lovely Syntax",
+    "url": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754946373038,
+    "hearable": false,
+    "id": "1881-1754946373038",
+    "title": "mendableai/open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds",
+    "url": "https://github.com/mendableai/open-lovable?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1754980043625,
+    "hearable": true,
+    "id": "1880-1754980043625",
+    "title": "Panda CSS - Build modern websites using build time and type-safe CSS-in-JS",
+    "url": "https://panda-css.com/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755001824356,
+    "hearable": true,
+    "id": "1883-1755001824356",
+    "title": "I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri",
+    "url": "https://www.al3rez.com/todo-txt-journey?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755060078382,
+    "hearable": true,
+    "id": "1885-1755060078382",
+    "title": "Reflections on the React community | Lee Robinson",
+    "url": "https://leerob.com/reflections?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755060213614,
+    "hearable": true,
+    "id": "1886-1755060213614",
+    "title": "How I Built a Full-Stack React Framework 4x Faster Than Next.js With 4x More Throughput - Ryan Skinner",
+    "url": "https://ryanskinner.com/posts/how-i-built-a-full-stack-react-framework-4x-faster-than-nextjs-with-4x-more-throughput?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755060551087,
+    "hearable": true,
+    "id": "1887-1755060551087",
+    "title": "CSS Nouveau | The Spicy Web",
+    "url": "https://www.spicyweb.dev/css-nouveau"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755093301184,
+    "hearable": true,
+    "id": "1889-1755093301184",
+    "title": "A gentle introduction to anchor positioning | WebKit",
+    "url": "https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755174957511,
+    "hearable": true,
+    "id": "1891-1755174957511",
+    "title": "MCP Vulnerabilities Every Developer Should Know - Composio",
+    "url": "https://composio.dev/blog/mcp-vulnerabilities-every-developer-should-know?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755324554899,
+    "hearable": true,
+    "id": "1894-1755324554899",
+    "title": "Learn MCP - Build a Model Context Protocol server with Cloudflare Workers",
+    "url": "https://learnmcp.examples.workers.dev/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755325060147,
+    "hearable": true,
+    "id": "1893-1755325060147",
+    "title": "una.im | 5 Useful CSS functions using the new @function rule",
+    "url": "https://una.im/5-css-functions/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755540329679,
+    "hearable": true,
+    "id": "1896-1755540329679",
+    "title": "Best Practices for Building Agentic AI Systems: What Actually Works in Production - UserJot",
+    "url": "https://userjot.com/blog/best-practices-building-agentic-ai-systems?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755540344670,
+    "hearable": true,
+    "id": "1897-1755540344670",
+    "title": "sabrinas.space -",
+    "url": "https://sabrinas.space/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755540711104,
+    "hearable": true,
+    "id": "1898-1755540711104",
+    "title": "Everything I know about good system design",
+    "url": "https://www.seangoedecke.com/good-system-design/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755632073166,
+    "hearable": false,
+    "id": "1900-1755632073166",
+    "title": "Release Biome CLI v2.2.0 · biomejs/biome · GitHub",
+    "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs/biome%402.2.0?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755632234071,
+    "hearable": true,
+    "id": "1901-1755632234071",
+    "title": "Why I'm all-in on Zen Browser",
+    "url": "https://werd.io/why-im-all-in-on-zen-browser/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755719002048,
+    "hearable": true,
+    "id": "1903-1755719002048",
+    "title": "How We Exploited CodeRabbit: From a Simple PR to RCE and Write Access on 1M Repositories – Kudelski Security Research",
+    "url": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755776481158,
+    "hearable": true,
+    "id": "1906-1755776481158",
+    "title": "Why I'm all-in on Zen Browser",
+    "url": "https://werd.io/why-im-all-in-on-zen-browser/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755776520871,
+    "hearable": true,
+    "id": "1905-1755776520871",
+    "title": "Driving AI adoption at Dropbox: a conversation with CTO Ali Dasdan - Dropbox",
+    "url": "https://dropbox.tech/culture/ai-adoption-productivity-dropbox-cto-ali-dasdan?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755887816906,
+    "hearable": true,
+    "id": "1912-1755887816906",
+    "title": "An Interactive Guide to SVG Paths • Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755887994702,
+    "hearable": true,
+    "id": "1910-1755887994702",
+    "title": "Can We Use Local Storage Instead of Context-Redux-Zustand?",
+    "url": "https://www.developerway.com/posts/local-storage-instead-of-context?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755888038946,
+    "hearable": true,
+    "id": "1909-1755888038946",
+    "title": "the core of rust",
+    "url": "https://jyn.dev/the-core-of-rust/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755888114246,
+    "hearable": true,
+    "id": "1911-1755888114246",
+    "title": "Single-file HTML apps | Hyperclay",
+    "url": "https://hyperclay.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1755939295296,
+    "hearable": true,
+    "id": "1908-1755939295296",
+    "title": "Willkommen - DOROTHEA ERNST",
+    "url": "https://ernst-tradu.de/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756123290173,
+    "hearable": true,
+    "id": "1913-1756123290173",
+    "title": "how to build a coding agent: free workshop",
+    "url": "https://ghuntley.com/agent/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756123311846,
+    "hearable": true,
+    "id": "1914-1756123311846",
+    "title": "Turning Claude Code Into My Best Design Partner – Between the Prompts",
+    "url": "https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756123318032,
+    "hearable": true,
+    "id": "1915-1756123318032",
+    "title": "Everything I know about good API design",
+    "url": "https://www.seangoedecke.com/good-api-design/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756123356716,
+    "hearable": true,
+    "id": "1916-1756123356716",
+    "title": "Unlocking Rich UI Component Rendering in AI Responses - MDX Enhanced Dynamic Markdown",
+    "url": "https://www.timetler.com/2025/08/19/unlocking-rich-ui-components-in-ai/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756123395134,
+    "hearable": true,
+    "id": "1917-1756123395134",
+    "title": "Bejofo Blog - How I Made My Online Game Work Without JavaScript and Why You Probably Shouldn’t",
+    "url": "https://bejofo.com/blog/no-js-game-case-study?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756123408420,
+    "hearable": true,
+    "id": "1918-1756123408420",
+    "title": "Mariano Gappa's Blog",
+    "url": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756209323133,
+    "hearable": true,
+    "id": "1922-1756209323133",
+    "title": "Big O",
+    "url": "https://samwho.dev/big-o/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756209566581,
+    "dateAdded": 1756209330002,
+    "hearable": true,
+    "id": "1923-1756209330002",
+    "title": "An Illustrated Guide to OAuth - by Aditya Bhargava",
+    "url": "https://www.ducktyped.org/p/an-illustrated-guide-to-oauth?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756378896099,
+    "dateAdded": 1756281992754,
+    "hearable": true,
+    "id": "1925-1756281992754",
+    "title": "Anatomy of a Web Component – David Bushell – Web Dev (UK)",
+    "url": "https://dbushell.com/2025/08/01/anatomy-of-a-web-component/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#246:%20Next.js,%20React%20Router,%20TanStack,%20StyleX,%20MUI,%20Storybook%20%7C%20FlashList%202,%20RN%200.81,%20Expo,%20Radon,%20Gesture%20Handler,%20Audio,%20Skia,%20Nitro,%20Strict%20DOM%20%7C%20TC39,%20Node,%20TypeScript,%20Astro,%20BIDC,%20Surveys%20-%2018691813"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756378896099,
+    "dateAdded": 1756281997952,
+    "hearable": true,
+    "id": "1926-1756281997952",
+    "title": "An Interactive Guide to SVG Paths • Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#246:%20Next.js,%20React%20Router,%20TanStack,%20StyleX,%20MUI,%20Storybook%20%7C%20FlashList%202,%20RN%200.81,%20Expo,%20Radon,%20Gesture%20Handler,%20Audio,%20Skia,%20Nitro,%20Strict%20DOM%20%7C%20TC39,%20Node,%20TypeScript,%20Astro,%20BIDC,%20Surveys%20-%2018691813"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756378896099,
+    "dateAdded": 1756302321789,
+    "hearable": true,
+    "id": "1927-1756302321789",
+    "title": "The Future of JavaScript: What Awaits Us",
+    "url": "https://jsdev.space/future-of-javascript/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": true,
+    "createdAt": 1756378896099,
+    "dateAdded": 1756361743401,
+    "hearable": true,
+    "id": "1953-1756361743401",
+    "title": "WTF is JSX - JASON Format",
+    "url": "https://jasonformat.com/wtf-is-jsx/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1756378896099,
+    "dateAdded": 1756361804945,
+    "hearable": true,
+    "id": "1952-1756361804945",
+    "title": "Reflections on the React community | Lee Robinson",
+    "url": "https://leerob.com/reflections?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#247:%20nuqs,%20Concurrent%20React,%20Apollo,%20shadcn,%20Streamdown,%20Fragment%20Refs,%20Waku,%20React-Aria%20%7C%20Expo%20Launch,%20Maestro,%20SPM,%20Screens,%20ExecuTorch,%20BottomSheet,%20Jest%20%7C%20Zod,%20Rspack,%20ESLint,%20CSS,%20Bun,%20Firefox%20-%2018772436"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756736652058,
+    "hearable": true,
+    "id": "1958-1756736652058",
+    "title": "Terminal sessions you can bookmark: Building Zellij's web client :: poor.dev",
+    "url": "https://poor.dev/blog/building-zellij-web-terminal/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756796235558,
+    "hearable": false,
+    "id": "1960-1756796235558",
+    "title": "trueadm/ripple: the elegant TypeScript UI framework",
+    "url": "https://github.com/trueadm/ripple?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756796959686,
+    "hearable": true,
+    "id": "1961-1756796959686",
+    "title": "Unlocking Web Workers with React: A Step-by-Step Guide | Rahul's Blog",
+    "url": "https://www.rahuljuliato.com/posts/react-workers?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756797002391,
+    "hearable": true,
+    "id": "1963-1756797002391",
+    "title": "Speeding up the JavaScript ecosystem - Semver",
+    "url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756797017211,
+    "hearable": true,
+    "id": "1964-1756797017211",
+    "title": "React - Custom HTML Elements",
+    "url": "https://react.dev/reference/react-dom/components?ck_subscriber_id=3298676960#custom-html-elements"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756797485320,
+    "hearable": false,
+    "id": "1965-1756797485320",
+    "title": "infernojs/inferno: :fire: An extremely fast, React-like JavaScript library for building modern user interfaces",
+    "url": "https://github.com/infernojs/inferno"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1756994003292,
+    "hearable": true,
+    "id": "1967-1756994003292",
+    "title": "req-ai-rements_frontend",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757059441806,
+    "hearable": true,
+    "id": "1969-1757059441806",
+    "title": "What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube",
+    "url": "https://m.youtube.com/watch?v=8aGhZQkoFbQ"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757059710842,
+    "hearable": true,
+    "id": "1970-1757059710842",
+    "title": "You no longer need JavaScript Ʊ lyra's epic blog",
+    "url": "https://lyra.horse/blog/2025/08/you-dont-need-js/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148250980,
+    "hearable": true,
+    "id": "1973-1757148250980",
+    "title": "How we built an interpreter for Swift (a compiled language)",
+    "url": "https://www.bitrig.app/blog/swift-interpreter?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148460954,
+    "hearable": true,
+    "id": "1992-1757148460954",
+    "title": "Where's the Shovelware? Why AI Coding Claims Don't Add Up",
+    "url": "https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148521432,
+    "hearable": true,
+    "id": "2014-1757148521432",
+    "title": "MIT says AI isn’t replacing you… it’s just wasting your boss’s money",
+    "url": "https://www.interviewquery.com/p/mit-ai-isnt-replacing-workers-just-wasting-money?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148532194,
+    "hearable": true,
+    "id": "2020-1757148532194",
+    "title": "Home | Substack",
+    "url": "https://substack.com/@engineerscodex/note/c-152255349?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148559078,
+    "hearable": true,
+    "id": "1974-1757148559078",
+    "title": "Writing Code Was Never The Bottleneck - ordep.dev",
+    "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148713065,
+    "hearable": true,
+    "id": "1986-1757148713065",
+    "title": "30 minutes with a stranger",
+    "url": "https://pudding.cool/2025/06/hello-stranger/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148743642,
+    "hearable": true,
+    "id": "2016-1757148743642",
+    "title": "First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity",
+    "url": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148819340,
+    "hearable": true,
+    "id": "1996-1757148819340",
+    "title": "The day Return became Enter – Aresluna",
+    "url": "https://aresluna.org/the-day-return-became-enter/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148837641,
+    "hearable": true,
+    "id": "1989-1757148837641",
+    "title": "You can try to like stuff",
+    "url": "https://dynomight.net/liking/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757148847007,
+    "hearable": true,
+    "id": "1983-1757148847007",
+    "title": "Ask HN: How do you fight YouTube addiction and procrastination? I'm struggling | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=45085014&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757160232186,
+    "hearable": true,
+    "id": "1975-1757160232186",
+    "title": "Warp: Introducing Warp Code: the fastest way from Prompt to Production",
+    "url": "https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757263546836,
+    "hearable": true,
+    "id": "1979-1757263546836",
+    "title": "Understanding Transformers Using A Minimal Example",
+    "url": "https://rti.github.io/gptvis/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757263579115,
+    "hearable": true,
+    "id": "2002-1757263579115",
+    "title": "Data engineering and software engineering are converging",
+    "url": "https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757263685507,
+    "hearable": true,
+    "id": "1998-1757263685507",
+    "title": "Tufte CSS",
+    "url": "https://edwardtufte.github.io/tufte-css/?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757263889524,
+    "hearable": true,
+    "id": "2010-1757263889524",
+    "title": "How to protect your AI agent from prompt injection attacks - LogRocket Blog",
+    "url": "https://blog.logrocket.com/protect-ai-agent-from-prompt-injection?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757263925833,
+    "hearable": true,
+    "id": "1991-1757263925833",
+    "title": "the core of rust",
+    "url": "https://jyn.dev/the-core-of-rust/?ck_subscriber_id=2641246736&utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757264032704,
+    "hearable": true,
+    "id": "1981-1757264032704",
+    "title": "React’s useTransition and state update reordering",
+    "url": "https://jordaneldredge.com/notes/react-rebasing/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757273029967,
+    "hearable": false,
+    "id": "2017-1757273029967",
+    "title": "GitHub - trueadm/ripple: the elegant TypeScript UI framework",
+    "url": "https://github.com/trueadm/ripple?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757273104290,
+    "hearable": true,
+    "id": "2004-1757273104290",
+    "title": "You’re loading fonts wrong (and it’s crippling your performance) - Jono Alderson",
+    "url": "https://www.jonoalderson.com/performance/youre-loading-fonts-wrong/#utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757274264015,
+    "hearable": false,
+    "id": "1990-1757274264015",
+    "title": "GitHub - lukasbach/headless-tree: The definitive tree component for the Web",
+    "url": "https://github.com/lukasbach/headless-tree?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757345194019,
+    "hearable": true,
+    "id": "2007-1757345194019",
+    "title": "Keeping Secrets Out of Logs - allan.reyes.sh",
+    "url": "https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757345330378,
+    "hearable": true,
+    "id": "1999-1757345330378",
+    "title": "Signals and Threads | Why ML Needs a New Programming Language",
+    "url": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757345351977,
+    "hearable": true,
+    "id": "1997-1757345351977",
+    "title": "The maths you need to start understanding LLMs :: Giles' blog",
+    "url": "https://www.gilesthomas.com/2025/09/maths-for-llms?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757420613295,
+    "hearable": true,
+    "id": "1984-1757420613295",
+    "title": "Color Shifting in CSS • Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/animation/color-shifting/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757420676456,
+    "hearable": false,
+    "id": "1993-1757420676456",
+    "title": "GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+    "url": "https://github.com/jackyzha0/quartz?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757420890509,
+    "hearable": true,
+    "id": "2001-1757420890509",
+    "title": "Package Managers are Evil - gingerBill",
+    "url": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757528323761,
+    "hearable": true,
+    "id": "1978-1757528323761",
+    "title": "AddyOsmani.com - Google Chrome at 17 - A history of our browser",
+    "url": "https://addyosmani.com/blog/chrome-17th/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757595110279,
+    "hearable": true,
+    "id": "2023-1757595110279",
+    "title": "I love UUID, I hate UUID",
+    "url": "https://blog.epsiolabs.com/i-love-uuid-i-hate-uuid?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757595117784,
+    "hearable": true,
+    "id": "2006-1757595117784",
+    "title": "YouTube is a mysterious monopoly | anderegg.ca",
+    "url": "https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757595179261,
+    "hearable": true,
+    "id": "2018-1757595179261",
+    "title": "An Interactive Guide to TanStack DB | Frontend at Scale",
+    "url": "https://frontendatscale.com/blog/tanstack-db/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757710806668,
+    "hearable": true,
+    "id": "1995-1757710806668",
+    "title": "Behind The Scenes of Bun Install | Bun Blog",
+    "url": "https://bun.com/blog/behind-the-scenes-of-bun-install?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757710835678,
+    "hearable": true,
+    "id": "1994-1757710835678",
+    "title": "An Interactive Guide to TanStack DB | Frontend at Scale",
+    "url": "https://frontendatscale.com/blog/tanstack-db/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757710847727,
+    "hearable": true,
+    "id": "2012-1757710847727",
+    "title": "How to keep package.json under control | Val Town Blog",
+    "url": "https://blog.val.town/gardening-dependencies?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757711184976,
+    "hearable": true,
+    "id": "2013-1757711184976",
+    "title": "Jetzig Web Framework",
+    "url": "https://www.jetzig.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757711193429,
+    "hearable": true,
+    "id": "2021-1757711193429",
+    "title": "Behind The Scenes of Bun Install | Bun Blog",
+    "url": "https://bun.com/blog/behind-the-scenes-of-bun-install?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757711621667,
+    "hearable": true,
+    "id": "2019-1757711621667",
+    "title": "An Engineering History of the Manhattan Project",
+    "url": "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan?utm_source=hackernewsletter&utm_medium=email&utm_term=learn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757712083412,
+    "hearable": true,
+    "id": "2022-1757712083412",
+    "title": "The Storm Hits the Art Market",
+    "url": "https://news.artnet.com/market/intelligence-report-storm-2025-2684512"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757712559227,
+    "hearable": false,
+    "id": "1985-1757712559227",
+    "title": "GitHub - Tortured-Metaphor/LightCycle: A Rust LightCycle Game",
+    "url": "https://github.com/Tortured-Metaphor/LightCycle?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757712793374,
+    "hearable": true,
+    "id": "1982-1757712793374",
+    "title": "Solid.js vs. React: A Developer's Perspective",
+    "url": "https://alemtuzlak.hashnode.dev/ive-tried-solidjs-now-im-starting-to-hate-react?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#249:%20TanStack,%20Fast-Refresh,%20MDX,%20Storybook,%20nuqs,%20AI%20Elements,%20Three-Fiber%20%7C%20Expo,%20Legend%20List,%20Uniwind,%20New%20Arch,%20Rock,%20Screens,%20IAP,%20Glass,%20Sound,%20NavigationBar%20%7C%20Interop,%20Linting,%20Safari%20-%2018938093"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757712815963,
+    "hearable": false,
+    "id": "2000-1757712815963",
+    "title": "GitHub - pmndrs/timeline: → Write composable 3D behaviors like a story.",
+    "url": "https://github.com/pmndrs/timeline?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#249:%20TanStack,%20Fast-Refresh,%20MDX,%20Storybook,%20nuqs,%20AI%20Elements,%20Three-Fiber%20%7C%20Expo,%20Legend%20List,%20Uniwind,%20New%20Arch,%20Rock,%20Screens,%20IAP,%20Glass,%20Sound,%20NavigationBar%20%7C%20Interop,%20Linting,%20Safari%20-%2018938093"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757912378264,
+    "hearable": true,
+    "id": "2015-1757912378264",
+    "title": "PodRocket - A web development podcast from LogRocket: The useless useCallback: React performance myths unpacked, with Dominik Dorfmeister",
+    "url": "https://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#ck_subscriber_id%3D2468560734%26utm_source%3Dconvertkit%26utm_medium%3Demail%26utm_campaign%3D%25E2%259A%259B%25EF%25B8%258F%2520This%2520Week%2520In%2520React%2520"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757932935213,
+    "hearable": true,
+    "id": "1977-1757932935213",
+    "title": "This 25-minute video is the most riveting sudoku puzzle you will ever watch | The Verge",
+    "url": "https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1757938816079,
+    "hearable": true,
+    "id": "2011-1757938816079",
+    "title": "Aigostar Steckdosenadapter 3-Fach mit Kindersicherung Mehrfachsteckdose Tragbar für Steckdose: Amazon.de: Baumarkt",
+    "url": "https://www.amazon.de/Aigostar-Mehrfachsteckdose-Steckdosenadapter-%C3%9Cberspannungsschutz-Kindersicherung/dp/B09DL14S97/ref=mp_s_a_1_5_sspa?crid=8F6OI0US0GH2&dib=eyJ2IjoiMSJ9.5DFrB3R83nPA82mYML7i7gw_mzwudgJaOBtmYADKpYGh_86l7OFU7Z4gbTkXtY1CVmPGYpKW2x7O-0AWzxEmNYp8XrkOf-AzS7Q43tm34P5hNZFqIRLR5jnZLWj_7_ifVYjptC6ncyyYpizvGvaMZMotPrDhGbqRTYxhZQWWALTTY-XI9jNwmTURz-1Lg4pbp6NNJYmtuIOsGLfO0JAsXA._6g1r1rV9dyjQ65pDMa_d4K7uoyP3BbyTo_JPFBmsok&dib_tag=se&keywords=doppelsteckdose&qid=1757938649&sprefix=doppeltest%2Caps%2C147&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfbXRm&psc=1"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758002234489,
+    "hearable": true,
+    "id": "2003-1758002234489",
+    "title": "How to Write \"Garbage Code\" (by Linus Torvalds)",
+    "url": "https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758002454517,
+    "hearable": false,
+    "id": "2024-1758002454517",
+    "title": "GitHub - 1771-Technologies/lytenyte: The official monorepo for LyteNyte Grid, the fastest React data grid built on modern web technologies. Designed for enterprise-scale performance, LyteNyte Grid offers unrivaled speed, memory efficiency, and a comprehensive feature set in a small bundle size. Supported by the 1771 Technologies team.",
+    "url": "https://github.com/1771-Technologies/lytenyte?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758002555212,
+    "hearable": true,
+    "id": "1988-1758002555212",
+    "title": "The challenge of maintaining curl [LWN.net]",
+    "url": "https://lwn.net/Articles/1034966/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758022612714,
+    "hearable": true,
+    "id": "1987-1758022612714",
+    "title": "React Won by Default – And It's Killing Frontend Innovation | Loren Stewart",
+    "url": "https://www.lorenstew.art/blog/react-won-by-default/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758119685020,
+    "hearable": true,
+    "id": "2008-1758119685020",
+    "title": "In Defense of C++",
+    "url": "https://dayvster.com/blog/in-defense-of-cpp/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758150756583,
+    "hearable": true,
+    "id": "1980-1758150756583",
+    "title": "What tests to write for React",
+    "url": "https://www.franciscomoretti.com/blog/what-tests-to-write-for-react?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#250:%20Activity,%20React%20Router,%20CSS-in-JS,%20RSC,%20React-Query,%20useEffect%20%7C%20Expo,%20iOS%20blur,%20AI,%20Lynx,%20Squircle,%20DataList,%20Liquid%20Glass%20%7C%20TC39,%20pnpm,%20Bun,%20Browserslist,%20WebKit%20-%2019022395"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758150902796,
+    "hearable": false,
+    "id": "2009-1758150902796",
+    "title": "GitHub - liorp/react-hook-form-persist",
+    "url": "https://github.com/liorp/react-hook-form-persist?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#250:%20Activity,%20React%20Router,%20CSS-in-JS,%20RSC,%20React-Query,%20useEffect%20%7C%20Expo,%20iOS%20blur,%20AI,%20Lynx,%20Squircle,%20DataList,%20Liquid%20Glass%20%7C%20TC39,%20pnpm,%20Bun,%20Browserslist,%20WebKit%20-%2019022395"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758193526509,
+    "hearable": true,
+    "id": "2005-1758193526509",
+    "title": "Fetch streams are great, but not for measuring upload/download progress - JakeArchibald.com",
+    "url": "https://jakearchibald.com/2025/fetch-streams-not-for-progress/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#250:%20Activity,%20React%20Router,%20CSS-in-JS,%20RSC,%20React-Query,%20useEffect%20%7C%20Expo,%20iOS%20blur,%20AI,%20Lynx,%20Squircle,%20DataList,%20Liquid%20Glass%20%7C%20TC39,%20pnpm,%20Bun,%20Browserslist,%20WebKit%20-%2019022395"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1758275785960,
+    "dateAdded": 1758198464455,
+    "hearable": true,
+    "id": "1976-1758198464455",
+    "title": "Finally, safe array methods in JavaScript - Matt Smith",
+    "url": "https://allthingssmitty.com/2025/09/08/finally-safe-array-methods-in-javascript/?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758365784601,
+    "hearable": true,
+    "id": "2027-1758365784601",
+    "title": "A deep dive into Cloudflare’s September 12, 2025 dashboard and API outage",
+    "url": "https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage?utm_source=tldrwebdev/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758438013225,
+    "hearable": true,
+    "id": "2028-1758438013225",
+    "title": "Directive / +load",
+    "url": "https://daggerjs.org/?utm_source=hackernewsletter&utm_medium=email&utm_term=code#directive/load"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758438122137,
+    "hearable": true,
+    "id": "2026-1758438122137",
+    "title": "Rules for creating good-looking user interfaces, from a developer",
+    "url": "https://weberdominik.com/blog/rules-user-interfaces/?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758531577040,
+    "hearable": true,
+    "id": "2029-1758531577040",
+    "title": "Learn to code using C# | .NET",
+    "url": "https://dotnet.microsoft.com/en-us/learntocode"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758548809467,
+    "hearable": true,
+    "id": "2031-1758548809467",
+    "title": "How to stop functional programming - BAM Weblog",
+    "url": "https://brianmckenna.org/blog/howtostopfp?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758548884750,
+    "hearable": true,
+    "id": "2032-1758548884750",
+    "title": "State in the url in React (the right way) | by Emmanuel Meric de Bellefon | Sep, 2025 | Medium",
+    "url": "https://medium.com/@meric.emmanuel/state-in-the-url-in-react-the-right-way-3b031a3b183a?utm_source=tldrwebdev"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758734145004,
+    "hearable": true,
+    "id": "2034-1758734145004",
+    "title": "The Hardware Knowledge that Every Programmer Should Know | by Needone App | Medium",
+    "url": "https://needoneapp.medium.com/the-hardware-knowledge-that-every-programmer-should-know-f62cf4ba8bdc"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758951778516,
+    "hearable": true,
+    "id": "2036-1758951778516",
+    "title": "The Best CSS Unit Might Be a Combination | OddBird",
+    "url": "https://www.oddbird.net/2025/09/23/type-units/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758958775097,
+    "hearable": true,
+    "id": "2038-1758958775097",
+    "title": "Resurrect the Old Web | Steve's Bear Blog ʕ º ᴥ ºʔ",
+    "url": "https://stevedylandev.bearblog.dev/resurrect-the-old-web/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1758958874990,
+    "hearable": true,
+    "id": "2037-1758958874990",
+    "title": "Always invite Anna",
+    "url": "https://sharif.io/anna-alexei?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759570562089,
+    "hearable": true,
+    "id": "2045-1759570562089",
+    "title": "10,000 Pushups And Other Silly Exercise Quests That Changed My Life | W. Jason Gilmore",
+    "url": "https://wjgilmore.com/articles/10000-pushups?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759578012575,
+    "hearable": true,
+    "id": "2048-1759578012575",
+    "title": "Autism Simulator - Workplace Experience Simulation | Interactive Educational Tool",
+    "url": "https://autism-simulator.vercel.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759615389503,
+    "hearable": true,
+    "id": "2040-1759615389503",
+    "title": "toolbrew - Free Online Utility Tools Library | Text, Video, SEO Tools",
+    "url": "https://toolbrew.co/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759615426050,
+    "hearable": true,
+    "id": "2043-1759615426050",
+    "title": "Daily journal, habits & tasks app that actually works",
+    "url": "https://three-cells.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759618091981,
+    "hearable": true,
+    "id": "2046-1759618091981",
+    "title": "LOADMORE",
+    "url": "https://loadmo.re/?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759643843846,
+    "hearable": true,
+    "id": "2047-1759643843846",
+    "title": "Subtleties of SQLite Indexes | Evan Schwartz",
+    "url": "https://emschwartz.me/subtleties-of-sqlite-indexes/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759643935600,
+    "hearable": true,
+    "id": "2042-1759643935600",
+    "title": "The nuance of React rendering behaviour as it relates to children",
+    "url": "https://blacksheepcode.com/posts/nuance_of_react_rendering_behaviour?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#252:%20React%2019.2%20%F0%9F%94%A5,%20Activity,%20useEffectEvent,%20Compiler,%20Astro,%20StyleX,%20Docusaurus%20%7C%20Vega%20OS,%20Voltra,%20NativeScript,%20Expo%20Router,%20NativeWind,%20Lynx,%20Maestro%20%7C%20TC39,%20Temporal,%20Baseline,%20State%20Of%20JS,%20Supply%20Chain,%20MCP%20-%2019194044"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759643964416,
+    "hearable": true,
+    "id": "2041-1759643964416",
+    "title": "React State Management in 2025: What You Actually Need",
+    "url": "https://www.developerway.com/posts/react-state-management-2025?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#252:%20React%2019.2%20%F0%9F%94%A5,%20Activity,%20useEffectEvent,%20Compiler,%20Astro,%20StyleX,%20Docusaurus%20%7C%20Vega%20OS,%20Voltra,%20NativeScript,%20Expo%20Router,%20NativeWind,%20Lynx,%20Maestro%20%7C%20TC39,%20Temporal,%20Baseline,%20State%20Of%20JS,%20Supply%20Chain,%20MCP%20-%2019194044"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1759643989779,
+    "hearable": true,
+    "id": "2044-1759643989779",
+    "title": "Activity, the new React component - Agence Premier Octet",
+    "url": "https://www.premieroctet.com/blog/en/activity-new-react-component?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#252:%20React%2019.2%20%F0%9F%94%A5,%20Activity,%20useEffectEvent,%20Compiler,%20Astro,%20StyleX,%20Docusaurus%20%7C%20Vega%20OS,%20Voltra,%20NativeScript,%20Expo%20Router,%20NativeWind,%20Lynx,%20Maestro%20%7C%20TC39,%20Temporal,%20Baseline,%20State%20Of%20JS,%20Supply%20Chain,%20MCP%20-%2019194044"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1760015093569,
+    "hearable": true,
+    "id": "2050-1760015093569",
+    "title": "AI to Production: A tactical discussion on making AI work for your team - YouTube",
+    "url": "https://m.youtube.com/watch?v=Ybq8GrnjarU"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1760015143007,
+    "hearable": true,
+    "id": "2051-1760015143007",
+    "title": "Vibe engineering",
+    "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1760650144006,
+    "hearable": true,
+    "id": "2053-1760650144006",
+    "title": "Remix Jam 2025 - YouTube",
+    "url": "https://m.youtube.com/watch?v=xt_iEOn2a6Y&t=11764s&ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F+This+Week+In+React+#"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1760653778686,
+    "hearable": true,
+    "id": "2055-1760653778686",
+    "title": "Context Inheritance in TanStack Router | TkDodo's blog",
+    "url": "https://tkdodo.eu/blog/context-inheritance-in-tan-stack-router?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#254:%20Next.js,%20Remix,%20Compiler,%20Async%20React,%20TanStack,%20Cloudflare,%20Hook%20Form,%20Conform%20%7C%20VirtualView,%20DevTools,%20Screens,%20Radon,%20Harness,%20Audio%20API,%20Uniwind,%20Nitro%20%7C%20Bun,%20Oxlint,%20Vite,%20View%20Transitions%20-%2019352766"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1760653988924,
+    "hearable": true,
+    "id": "2054-1760653988924",
+    "title": "How to Transform FormData Between UI and Database in React Router by sergiodxa",
+    "url": "https://sergiodxa.com/tutorials/transform-formdata-between-ui-and-database-in-react-router?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#254:%20Next.js,%20Remix,%20Compiler,%20Async%20React,%20TanStack,%20Cloudflare,%20Hook%20Form,%20Conform%20%7C%20VirtualView,%20DevTools,%20Screens,%20Radon,%20Harness,%20Audio%20API,%20Uniwind,%20Nitro%20%7C%20Bun,%20Oxlint,%20Vite,%20View%20Transitions%20-%2019352766"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761111792260,
+    "hearable": true,
+    "id": "2058-1761111792260",
+    "title": "Front-end maximalism | Nate Meyvis",
+    "url": "https://www.natemeyvis.com/front-end-maximalism/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761112101066,
+    "hearable": true,
+    "id": "2057-1761112101066",
+    "title": "Transition to the Other Side with Container Query Units",
+    "url": "https://ryanmulligan.dev/blog/transition-to-the-other-side/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761112106417,
+    "hearable": true,
+    "id": "2060-1761112106417",
+    "title": "Beyond Signals, by Ryan Carniato - YouTube",
+    "url": "https://m.youtube.com/watch?v=DZPSAOBnBAM"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761112114780,
+    "hearable": true,
+    "id": "2059-1761112114780",
+    "title": "Context Inheritance in TanStack Router | TkDodo's blog",
+    "url": "https://tkdodo.eu/blog/context-inheritance-in-tan-stack-router?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761159993028,
+    "hearable": false,
+    "id": "2064-1761159993028",
+    "title": "GitHub - rickhanlonii/async-react: The final state of the React Conf 2025 Async React talk.",
+    "url": "https://github.com/rickhanlonii/async-react?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#255:%20Next.js,%20RSC,%20shadcn,%20TanStack,%203D,%20Fumadocs%20%7C%20Solito,%20iOS%20header%20items,%20Expo,%20BottomTabs,%20MMKV,%20ImGui%20%7C%20Node.js,%20Vitest,%20Lighthouse%20-%2019432571"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761160024794,
+    "hearable": true,
+    "id": "2062-1761160024794",
+    "title": "YouTube",
+    "url": "https://m.youtube.com/watch?v=gjrXeqgxbas&pp=4gcMEgpjb252ZXJ0a2l0"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761165365187,
+    "hearable": true,
+    "id": "2063-1761165365187",
+    "title": "Triplex Goes Open Source and Moves to Poimandres • Triplex",
+    "url": "https://triplex.dev/blog/triplex-moves-to-pmndrs?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#255:%20Next.js,%20RSC,%20shadcn,%20TanStack,%203D,%20Fumadocs%20%7C%20Solito,%20iOS%20header%20items,%20Expo,%20BottomTabs,%20MMKV,%20ImGui%20%7C%20Node.js,%20Vitest,%20Lighthouse%20-%2019432571"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761416290583,
+    "hearable": true,
+    "id": "2068-1761416290583",
+    "title": "Using await at the top level in ES modules - Matt Smith",
+    "url": "https://allthingssmitty.com/2025/06/16/using-await-at-the-top-level-in-es-modules/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761416363123,
+    "hearable": true,
+    "id": "2067-1761416363123",
+    "title": "React Server Components: Do They Really Improve Performance?",
+    "url": "https://www.developerway.com/posts/react-server-components-performance?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761416384669,
+    "hearable": true,
+    "id": "2066-1761416384669",
+    "title": "Vite+ | The Unified Toolchain for the Web",
+    "url": "https://viteplus.dev/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761722398968,
+    "hearable": true,
+    "id": "2071-1761722398968",
+    "title": "Solved By Modern CSS: Section Layout",
+    "url": "https://ishadeed.com/article/modern-css-section-layout/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761762739483,
+    "hearable": true,
+    "id": "2073-1761762739483",
+    "title": "I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance | Loren Stewart",
+    "url": "https://www.lorenstew.art/blog/10-kanban-boards?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#256:%20Next.js,%20directives,%20TanStack,%20Storybook,%20Waku,%20shadcn,%20Rari,%20Astro%20%7C%20Navigation,%20EAS,%20Expo%20Modules,%20Gesture%20Handler,%20Screens,%20Nitro,%20IAP%20%7C%20ArkType,%20Biome,%20Svelte,%20Hono%20-%2019511133"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761918178729,
+    "hearable": true,
+    "id": "2075-1761918178729",
+    "title": "The Linux Boot Process: From Power Button to Kernel | 0xkato",
+    "url": "https://www.0xkato.xyz/linux-boot/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761918260654,
+    "hearable": true,
+    "id": "2076-1761918260654",
+    "title": "You should feed the bots: (Maurycy's blog)",
+    "url": "https://maurycyz.com/misc/the_cost_of_trash/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761977445670,
+    "hearable": true,
+    "id": "2079-1761977445670",
+    "title": "Write Code That Runs in the Browser, or Write Code the Browser Runs - Jim Nielsen’s Blog",
+    "url": "https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762338656818,
+    "dateAdded": 1761977460309,
+    "hearable": true,
+    "id": "2078-1761977460309",
+    "title": "Why developers are leaving Next.js for TanStack Start, and loving it - Appwrite",
+    "url": "https://appwrite.io/blog/post/why-developers-leaving-nextjs-tanstack-start?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762416419461,
+    "dateAdded": 1762364680552,
+    "hearable": true,
+    "id": "2085-1762364680552",
+    "title": "Web elements know about the user, device, variables, layout and more · October 30, 2025",
+    "url": "https://nerdy.dev/components-can-know?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762416419461,
+    "dateAdded": 1762364739396,
+    "hearable": true,
+    "id": "2083-1762364739396",
+    "title": "Your URL Is Your State",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762416419461,
+    "dateAdded": 1762372325039,
+    "hearable": true,
+    "id": "2081-1762372325039",
+    "title": "Encapsulate as much state as possible in your component",
+    "url": "https://blacksheepcode.com/posts/encapsulate_as_much_state_as_possible?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#257:%20Navigation%20API,%20PPR,%20directives,%20micro-frontends,%20i18n,%20Storybook,%20Immer%20%7C%20Godot,%20Uniwind,%20RCE,%20iOS%20filters,%20Windows,%20GPU,%20Hermes,%20Meta%20Quest%20%7C%20Node%20LTS,%20Safari,%20Rspack,%20Vite,%20SWC,%20Remix%20-%2019594464"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762416419461,
+    "dateAdded": 1762403898354,
+    "hearable": true,
+    "id": "2082-1762403898354",
+    "title": "Using Atomic State to Improve React Performance in Deeply Nested Component Trees | Harbor",
+    "url": "https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#257:%20Navigation%20API,%20PPR,%20directives,%20micro-frontends,%20i18n,%20Storybook,%20Immer%20%7C%20Godot,%20Uniwind,%20RCE,%20iOS%20filters,%20Windows,%20GPU,%20Hermes,%20Meta%20Quest%20%7C%20Node%20LTS,%20Safari,%20Rspack,%20Vite,%20SWC,%20Remix%20-%2019594464"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762416419461,
+    "dateAdded": 1762403915869,
+    "hearable": true,
+    "id": "2084-1762403915869",
+    "title": "Quality Assurance for i18n in React | Lingual",
+    "url": "https://lingual.dev/blog/quality-assurance-for-i18n-in-react/?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#257:%20Navigation%20API,%20PPR,%20directives,%20micro-frontends,%20i18n,%20Storybook,%20Immer%20%7C%20Godot,%20Uniwind,%20RCE,%20iOS%20filters,%20Windows,%20GPU,%20Hermes,%20Meta%20Quest%20%7C%20Node%20LTS,%20Safari,%20Rspack,%20Vite,%20SWC,%20Remix%20-%2019594464"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551694401,
+    "hearable": true,
+    "id": "2088-1762551694401",
+    "title": "You Should Write An Agent · The Fly Blog",
+    "url": "https://fly.io/blog/everyone-write-an-agent/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551719752,
+    "hearable": true,
+    "id": "2087-1762551719752",
+    "title": "Game design is simple, actually – Raph Koster",
+    "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551739821,
+    "hearable": true,
+    "id": "2089-1762551739821",
+    "title": "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=45771870&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551746744,
+    "hearable": true,
+    "id": "2095-1762551746744",
+    "title": "Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else? | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=45823234&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551778733,
+    "hearable": true,
+    "id": "2093-1762551778733",
+    "title": "Layoutit Terra - CSS Terrain Generator",
+    "url": "https://terra.layoutit.com/#eJxllMluG0EMRH-oDbD3JnWJI8HIB-SQHGeVz0qALNDHB8WR2pzJxdMcuarJV5TIv-TzhVtzKwl58SEmR0GfudTGw-go2nJylA513tXzsjoqcnhRZV-3Q81iS09iKy-mCPJxjtKPSbbT1fksz1N5nE75rVzSq7vpkBNGmvs7L1TE9zIINYnQDv1dFEoCnxrz27m6dxJiCb30sJ1hi2upiccIAZ1HdJzQakaTBe1VuLeuDkJBll5GmC1A5mEVYBVhlWCVYVVgVWHVYMUnDolTdD8IVnMvg1CVALoRLgkuGS4FLhUuDS58-ky1vJ7dL4URcHmELEGWISuQVcgaZAzZ0GUR9-pqzHcKdqeCZgc02zPJY6uybM8iZknMfnxsRt-J5zYs6z7QESs7wnsyqXok7YMsaPpq8wUEAkVCIFSl2aSz6MoYpFEmixQhUIaySEWrDV0yOhzQ3ohbZ9y6Wq6gTgifChRNGLIBshGyGbLVIo2inKY7xT3Sxugff5EEZRlgOmCUzu9J78HugGwAMo1lgH603AiteKPQmatmqHlZWkWmI64ko8XlN9BVI9eQNV5NVlPVSDH81eLyUGA!KUNRoWgAwlAQFN4o9CuqGMY7JYur!bcvjOHZ!gAw7Oi4JQ3!t9uNut8Nj4zYDhu3aCclv3F!fqryyY7Y8JvBsp4uxOeW3LoqvWOid8ov5gqWq!Vsct3pMe6n37788eUv8e1bodv3lH9-Gb!-A!Ceb3A"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551801166,
+    "hearable": true,
+    "id": "2091-1762551801166",
+    "title": "How I Use Every Claude Code Feature - by Shrivu Shankar",
+    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762551811117,
+    "hearable": true,
+    "id": "2090-1762551811117",
+    "title": "Learning to read Arthur Whitney's C to become Smart - Needleful.net",
+    "url": "https://needleful.net/blog/2024/01/arthur_whitney.html?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762587170073,
+    "hearable": false,
+    "id": "2096-1762587170073",
+    "title": "GitHub - samrolken/nokode",
+    "url": "https://github.com/samrolken/nokode?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762590108970,
+    "hearable": true,
+    "id": "2094-1762590108970",
+    "title": "Why Solarpunk is already happening in Africa",
+    "url": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening?utm_source=hackernewsletter&utm_medium=email&utm_term=learn"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1762780167428,
+    "dateAdded": 1762627325783,
+    "hearable": true,
+    "id": "2092-1762627325783",
+    "title": "Why we migrated from Python to Node.js",
+    "url": "https://blog.yakkomajuri.com/blog/python-to-node?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1763540551669,
+    "dateAdded": 1763031837035,
+    "hearable": true,
+    "id": "2098-1763031837035",
+    "title": "the terminal of the future",
+    "url": "https://jyn.dev/the-terminal-of-the-future?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1763540551669,
+    "dateAdded": 1763197524841,
+    "hearable": true,
+    "id": "2101-1763197524841",
+    "title": "The Inner Workings of JavaScript Source Maps",
+    "url": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1763540551669,
+    "dateAdded": 1763197558127,
+    "hearable": true,
+    "id": "2100-1763197558127",
+    "title": "How I Fell in Love with Erlang · Bora Gönül",
+    "url": "https://boragonul.com/post/falling-in-love-with-erlang?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1763540551669,
+    "dateAdded": 1763197593788,
+    "hearable": true,
+    "id": "2104-1763197593788",
+    "title": "Authorization Best Practices and Implementation Guide",
+    "url": "https://stack.convex.dev/authorization?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1763540551669,
+    "dateAdded": 1763197614403,
+    "hearable": true,
+    "id": "2102-1763197614403",
+    "title": "Don't Blindly Use useTransition Everywhere | Nicolas Charpentier",
+    "url": "https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1763540551669,
+    "dateAdded": 1763197632103,
+    "hearable": true,
+    "id": "2103-1763197632103",
+    "title": "7 Practical Animation Tips",
+    "url": "https://emilkowal.ski/ui/7-practical-animation-tips?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763625249959,
+    "hearable": true,
+    "id": "2106-1763625249959",
+    "title": "Modal dialogs without React (or JavaScript) - LakTEK",
+    "url": "https://laktek.com/modal-dialogs-without-react-javascript?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#259:%20State%20of%20React,%20Promise%20subclasses,%20Next.js,%20RSC,%20JSX%20Tools,%20React%20Grab,%20Base%20UI,%20Waku,%20StyleX%20%7C%20Yoga%20CSS%20Grid,%20Radon,%20Brownfield,%20Detox,%20Bootsplash%20%7C%20TC39,%20Browserslist,%20Linters,%20Prisma%20-%2019756700"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763625267171,
+    "hearable": true,
+    "id": "2107-1763625267171",
+    "title": "Vitest Browser Mode vs Playwright | Epic Web Dev",
+    "url": "https://www.epicweb.dev/vitest-browser-mode-vs-playwright?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#259:%20State%20of%20React,%20Promise%20subclasses,%20Next.js,%20RSC,%20JSX%20Tools,%20React%20Grab,%20Base%20UI,%20Waku,%20StyleX%20%7C%20Yoga%20CSS%20Grid,%20Radon,%20Brownfield,%20Detox,%20Bootsplash%20%7C%20TC39,%20Browserslist,%20Linters,%20Prisma%20-%2019756700"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763625321038,
+    "hearable": true,
+    "id": "2108-1763625321038",
+    "title": "YouTube",
+    "url": "https://m.youtube.com/watch?v=LyKOB_xNXEY&ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F+This+Week+In+React+#259:%20State%20of%20React,%20Promise%20subclasses,%20Next.js,%20RSC,%20JSX%20Tools,%20React%20Grab,%20Base%20UI,%20Waku,%20StyleX%20%7C%20Yoga%20CSS%20Grid,%20Radon,%20Brownfield,%20Detox,%20Bootsplash%20%7C%20TC39,%20Browserslist,%20Linters,%20Prisma%20-%2019756700"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763625328703,
+    "hearable": true,
+    "id": "2109-1763625328703",
+    "title": "I fixed Zustand's BIGGEST problem - YouTube",
+    "url": "https://m.youtube.com/watch?v=gXz-lLIJbMI&pp=4gcMEgpjb252ZXJ0a2l0"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763625526273,
+    "hearable": true,
+    "id": "2110-1763625526273",
+    "title": "the last couple years in v8's garbage collector — wingolog",
+    "url": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector?ck_subscriber_id=2468560734&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#259:%20State%20of%20React,%20Promise%20subclasses,%20Next.js,%20RSC,%20JSX%20Tools,%20React%20Grab,%20Base%20UI,%20Waku,%20StyleX%20%7C%20Yoga%20CSS%20Grid,%20Radon,%20Brownfield,%20Detox,%20Bootsplash%20%7C%20TC39,%20Browserslist,%20Linters,%20Prisma%20-%2019756700"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763676000459,
+    "hearable": true,
+    "id": "2112-1763676000459",
+    "title": "Tooltip Components Should Not Exist | TkDodo's blog",
+    "url": "https://tkdodo.eu/blog/tooltip-components-should-not-exist?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763676024793,
+    "hearable": true,
+    "id": "2114-1763676024793",
+    "title": "Cloudflare outage on November 18, 2025",
+    "url": "https://blog.cloudflare.com/18-november-2025-outage/?ck_subscriber_id=3298676960/"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763676076663,
+    "hearable": true,
+    "id": "2113-1763676076663",
+    "title": "Code execution with MCP: building more efficient AI agents \\ Anthropic",
+    "url": "https://www.anthropic.com/engineering/code-execution-with-mcp?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763848975835,
+    "hearable": true,
+    "id": "2120-1763848975835",
+    "title": "Faking Two-Phase View Transitions with the Navigation API’s precommitHandler – Bram.us",
+    "url": "https://www.bram.us/2025/11/17/faking-two-phase-view-transitions-with-the-navigation-apis-precommithandler/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763849080442,
+    "hearable": true,
+    "id": "2118-1763849080442",
+    "title": "You Can Now Make PS2 Games in JavaScript",
+    "url": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763936836057,
+    "hearable": true,
+    "id": "2116-1763936836057",
+    "title": "How to Stay Sane in a World That Rewards Insanity",
+    "url": "https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763936996117,
+    "hearable": true,
+    "id": "2119-1763936996117",
+    "title": "Short Little Difficult Books - by Lincoln Michel",
+    "url": "https://countercraft.substack.com/p/short-little-difficult-books?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1763937020611,
+    "hearable": true,
+    "id": "2117-1763937020611",
+    "title": "The Internet is Cool. Thank you, TCP | Moncef Abboud",
+    "url": "https://cefboud.com/posts/tcp-deep-dive-internals/?utm_source=hackernewsletter&utm_medium=email&utm_term=watching"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1764163098127,
+    "hearable": true,
+    "id": "2122-1764163098127",
+    "title": "<100ms E-commerce: Instant loads with Speculation Rules API | Product Blog • Sentry",
+    "url": "https://blog.sentry.io/less-than-100ms-e-commerce-instant-loads-with-speculation-rules-api/?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1764163152799,
+    "hearable": true,
+    "id": "2123-1764163152799",
+    "title": "Omit for Discriminated Unions in TypeScript | TkDodo's blog",
+    "url": "https://tkdodo.eu/blog/omit-for-discriminated-unions-in-type-script?ck_subscriber_id=3298676960"
+  },
+  {
+    "consumed": false,
+    "createdAt": 1764166619045,
+    "dateAdded": 1764163181998,
+    "hearable": true,
+    "id": "2124-1764163181998",
+    "title": "React Server Components With Parcel",
+    "url": "https://marmelab.com/blog/2025/11/14/react-server-components-with-parcel.html?ck_subscriber_id=3298676960"
+  }
+]
