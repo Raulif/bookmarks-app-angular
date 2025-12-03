@@ -12,6 +12,6 @@
     "src/**/*.d.ts",
     "src/**/*.spec.ts",
     "src/environments/iEnvironment.ts",
-    "src/environments/environment.d.ts"
+    "src/app/types/environment.d.ts"
   ]
 }

@@ -1,5 +1,5 @@
 import type { Environment } from '../app/types/environment';
 
 export const environment: Environment = {
-  apiUrl: 'https://bookmarks-server.raulif.deno.net/bookmarks',
+  apiUrl: 'http://localhost:8080/bookmarks',
 };
